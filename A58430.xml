@@ -1,0 +1,2870 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay upon the third Punique War Lib. I and II : to which are added Theodosius's advice to his son and the phenix out of Claudian / by T.R., Esquire.</title>
+            <author>T. R., Esquire.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 122 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58430</idno>
+            <idno type="STC">Wing R81</idno>
+            <idno type="STC">ESTC R13110</idno>
+            <idno type="EEBO-CITATION">13585704</idno>
+            <idno type="OCLC">ocm 13585704</idno>
+            <idno type="VID">100530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100530)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 798:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay upon the third Punique War Lib. I and II : to which are added Theodosius's advice to his son and the phenix out of Claudian / by T.R., Esquire.</title>
+                  <author>T. R., Esquire.</author>
+               </titleStmt>
+               <extent>[4], 64 p.   </extent>
+               <publicationStmt>
+                  <publisher>In the Savoy, printed by T.N. for William Nott ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Punic War, 3d, 149-146 B.C. --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100530:1" rendition="simple:additions"/>
+            <p>AN ESSAY Upon the Third Punique War. LIB. I. and II. To which are added THEODOSIUS's <hi>Advice to his Son.</hi> AND THE PHENIX; Out of <hi>CLA<g ref="char:V">Ʋ</g>DIAN.</hi>
+            </p>
+            <p>By <hi>T. R.</hi> Eſquire.</p>
+            <q>
+               <hi>Scribimus indocti doctique poemata.</hi> 
+               <bibl>Hor.</bibl>
+            </q>
+            <p>In the <hi>SAVOY,</hi> Printed by <hi>T. N.</hi> for <hi>William Nott</hi> at the <hi>Queens Arms</hi> in the <hi>Pall-Mall.</hi> MDCLXXI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100530:2"/>
+            <pb facs="tcp:100530:2"/>
+            <head>To the Illuſtrious Prince JAMES DUKE OF <hi>MONMO<g ref="char:V">Ʋ</g>TH, B<g ref="char:V">Ʋ</g>CCLE<g ref="char:V">Ʋ</g>GH,</hi> &amp;c.</head>
+            <opener>
+               <salute>May it pleaſe your Grace,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Art of War being that to which all great Men ſhould apply their Studies (as the moſt Heroick Profeſſion, to which Your Grace hath de<g ref="char:EOLhyphen"/>dicated Your thoughts:) This <hi>Eſſay</hi> (be<g ref="char:EOLhyphen"/>ſides that it hath the Honour to be born in Your Service) may juſtly claim Your Prote<g ref="char:EOLhyphen"/>ction; and the rather, becauſe in it there is an Image of a Brave Young Heroe, whoſe Vertue ſo far out-ſtrip'd the Deliberate Pro<g ref="char:EOLhyphen"/>motions of his Countrey, that He aſcended to the Higheſt Dignities by Diſpenſations
+<pb facs="tcp:100530:3"/>of the <hi>Roman</hi> Laws, not ſought by his Ambition; but voluntarily indulged to his Worth: all which he obtain'd, not ſo much by his Birth (though of the most Noble) as by an early application of Himſelf to the Study of what a Great Man ſhould do, and bringing into practice what he had ſtudied. And he was happy in this, that his Em<g ref="char:EOLhyphen"/>ployments ſeemed to be conferred on Him, rather by Neceſſity than choice, He appear<g ref="char:EOLhyphen"/>ing rather the Sanctuary, than Servant of his Countrey, by ſecuring them from the Fears of <hi>Carthage</hi> and <hi>Numantia.</hi> Ipre<g ref="char:EOLhyphen"/>ſent Him to Your Grace, in little and a rough Draught, leaving Him to ſome bet<g ref="char:EOLhyphen"/>ter Hand to finiſh; hoping Your Grace will more regard my deſire, than my Art to ex<g ref="char:EOLhyphen"/>preſs my ſelf</p>
+            <closer>
+               <signed>Your Grace's Moſt humble and moſt faithful Servant <hi>T. R.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="verse_account">
+            <pb n="1" facs="tcp:100530:3"/>
+            <head>AN ESSAY Upon the Third <hi>P<g ref="char:V">Ʋ</g>NIQ<g ref="char:V">Ʋ</g>E WAR.</hi> LIB. I.</head>
+            <lg>
+               <l>TIme to that Point had run; when Conſcious Fate,</l>
+               <l>Reſolv'd no more to ſtrive with <hi>Juno</hi>'s Hate,</l>
+               <l>But with the Gods comply, who now their doome</l>
+               <l>Had given 'gainſt <hi>Carthage,</hi> and reſerv'd for <hi>Rome</hi>
+               </l>
+               <l>The Empire of the World: while <hi>Libya</hi> ſees</l>
+               <l>Signs of their Wrath, and their ſevere Decrees.</l>
+               <l>All that of Prodigie, in Heaven or Earth</l>
+               <l>Could be produc'd; All that with monſtrous Birth</l>
+               <l>Could Nature fright; or fill the World with Fear,</l>
+               <l>Or could confirm the People in Deſpair,</l>
+               <l>Shew'd that all Cauſes muſt to Fates give way,</l>
+               <l>And, that the Gods themſelves thoſe Laws obey.</l>
+               <pb n="2" facs="tcp:100530:4"/>
+               <l>
+                  <note n="(a)" place="bottom">The Peace after the end of the Second <hi>Punique War,</hi> continued about <hi>50</hi> years; during which time though the <hi>Carthaginians</hi> increaſed in Wealth and Pople, <hi>Maſſaniſſa</hi> very injuriouſly poſſeſſed himſelf of much of their Territories, and though they often appealed to the <hi>Romans,</hi> yet could they never have redreſs; which in ſome of the Great Ones added much to their in bred deteſtation of their power over them.</note>Scarce were the wounds of that Deſtructive War,</l>
+               <l>Which left in <hi>Africk</hi>'s Face ſo deep a Scar,</l>
+               <l>Clos'd up, when a Diſdain of Roman Chains,</l>
+               <l>And ſenſe of Shame, through her yet Bloodleſs Veins,</l>
+               <l>Like a dire Feaver, runs, inflames her Heart,</l>
+               <l>And with a troubled Pulſe, ſtrikes every Part.</l>
+               <l>
+                  <note n="(b)" place="bottom">
+                     <hi>Maſſaniſſa</hi> preſuming upon his friendſhip with the <hi>Romans,</hi> had ſo highly provoked the <hi>Carthaginians,</hi> that they ſent an Army againſt him under the Conduct of <hi>Haſdrubal,</hi> who was overthrown; by reaſon of which, <hi>Maſſaniſſa</hi> not onely more encroached upon them, but the <hi>Romans</hi> likewiſe (to whom they ſtill appealed for Juſtice) made this an infringement of an Article of their League, obliging them not to take Arms againſt an Ally of <hi>Rome,</hi> and thereupon prepared for War.</note>The Cauſe of ſo great Ills, my Muſe relate;</l>
+               <l>And why the Ruin of an Anient State</l>
+               <l>The Gods, and Men ſhould joyntly ſo conſpire.</l>
+               <l>Muſt nothing under Heaven be kept entire</l>
+               <l>When Great? then <hi>(Rome)</hi> thy Fate will be the ſame,</l>
+               <l>With that of <hi>Carthage,</hi> and when thy proud Name</l>
+               <l>Hath fill'd the World ſo, that Thou canſt not riſe</l>
+               <l>More high, nor be a nobler Sacrifice</l>
+               <l>To Fortune; Nations, conquer'd by Thee, ſhall</l>
+               <l>Divide, with Joy, the Trophies of thy Fall.</l>
+               <l>After the Ivory Palaces inlay'd</l>
+               <l>With Gold, and <hi>Syphax</hi> crown the ſpoils were made</l>
+               <pb n="3" facs="tcp:100530:4"/>
+               <l>Of <hi>Scipio, Carthage</hi> diſarm'd of all</l>
+               <l>Her Force by Sea and Land, and <hi>Hannibal</hi>
+               </l>
+               <l>In all the World, <hi>Rome</hi>'s Fear, Alone, remain'd;</l>
+               <l>Whoſe death, with infamy ſoon after ſtain'd</l>
+               <l>
+                  <hi>Bithyniae</hi>'s Throne; as if above the ſtroke</l>
+               <l>Of Fate, or Fortune, <hi>Maſſaniſſa</hi>'s Yoke,</l>
+               <l>Heavier than <hi>Rome</hi>'s, on <hi>Libya</hi>'s Neck was lay'd,</l>
+               <l>For than a Civil Hand, which has betray'd</l>
+               <l>Its Country, what can give a deeper Wound?</l>
+               <l>Such to ſerve <hi>Rome</hi> was <hi>Maſſaniſſa</hi> found.</l>
+               <l>What ſhe had ſpar'd, He, cruelly deſtroy'd:</l>
+               <l>And what her Pity left, his Pride enjoy'd,</l>
+               <l>She, Honour; only, by her Conqueſt ſought,</l>
+               <l>And laſting Trophies to her Temples brought,</l>
+               <l>Where emulous Nephews, might her Actions read,</l>
+               <l>And boldly in thoſe ſteps of Honour tread.</l>
+               <l>He ſought not to ſubdue, but to oppreſs.</l>
+               <l>And by extending Pow'r, made Glory leſs.</l>
+               <l>No Bounds to his Ambition ſet a Bar,</l>
+               <l>But all was juſtly gain'd, atchiev'd in War.</l>
+               <l>His violated Faith muſt ſerve the Times,</l>
+               <l>And give a Pious Name to greateſt Crimes.</l>
+               <l>Poor <hi>Libya</hi> muſt believe, 'tis Heaven's Decree</l>
+               <l>That ſhe to <hi>Roman Laws,</hi> ſhould ſubject be.</l>
+               <l>Her Antient Valour to Religion now.</l>
+               <l>Muſt yield, and to ſuch ſervile Dictates bow,</l>
+               <l>
+                  <note n="(c)" place="bottom">The <hi>Numidians</hi> though their Countrey was very fer<g ref="char:EOLhyphen"/>til, wholly neglected Tillage and all ſort of Husban<g ref="char:EOLhyphen"/>dry, living in Tents, and removing as their Paſture failed; till <hi>Maſſaniſſa</hi> having united <hi>Syphax</hi> King<g ref="char:EOLhyphen"/>dom to his own Inheritanee, reduced them to a more civil life. <hi>Vid. App. lib. Libyc.</hi>
+                  </note>As to her Fathers were unknown before;</l>
+               <l>And what ſhe hated once, ſhe muſt adore.</l>
+               <pb n="4" facs="tcp:100530:5"/>
+               <l>Unhappy State, where Treaſon takes her Stand</l>
+               <l>Upon the Throne, and do's in Chief command;</l>
+               <l>All Rites, all Laws to Inſolence give way,</l>
+               <l>And what ſhould moſt command, do's moſt obey.</l>
+               <l>The Voice of Heav'n to attend all Pow'r appears,</l>
+               <l>But a vain Sound ſtill filis the Peoples ears;</l>
+               <l>What they expect, they ſeldom can enjoy,</l>
+               <l>And preſent Evils, all future Hopes deſtroy.</l>
+               <l>The gilded Name of Publick Good brings in</l>
+               <l>All Miſchief, and what Vertue ſeems, is ſin.</l>
+               <l>Their uſe of Arms, under the <hi>Latine</hi> Gown,</l>
+               <l>Is loſt, <hi>Rome</hi>'s Rites the <hi>Libyan</hi> Cuſtoms drown.</l>
+               <l>As a fierce Horſe, by ſtroaking, do's admit</l>
+               <l>To bear a Rider, and receives the Bit;</l>
+               <l>Which ſettled in his Jaws, he quickly feels</l>
+               <l>The Wand, and ſury of the Rider's Heels.</l>
+               <l>So by the Civil Cuſtoms brought from <hi>Rome,</hi>
+               </l>
+               <l>By <hi>Maſſaniſſa, Libya</hi> loſt at Home</l>
+               <l>That noble fierceneſs that once arm'd their hand</l>
+               <l>Againſt the World, and gain'd by Sea and Land,</l>
+               <l>Such Conqueſts, as no Nation, cou'd exceed,</l>
+               <l>But that, to which, Heav'n had the World decreed.</l>
+            </lg>
+            <lg>
+               <l>But in ſome breaſts, the Ancient <hi>Tyrian</hi> Name</l>
+               <l>As yet ſurviv'd, and Courage was the ſame,</l>
+               <l>As when <hi>Amilcar,</hi> or his Valiant Son,</l>
+               <l>For Empire, and Revenge the War begun.</l>
+               <l>The chief of theſe was <hi>Haſdrubal,</hi> who ſtood</l>
+               <l>High in the Peoples favour, as in Blood</l>
+               <l>Deriv'd from Anceſtors, who thither came</l>
+               <l>With <hi>Dido,</hi> and preſerv'd a Noble Name.</l>
+               <l>Grief now to ſee the <hi>Carthaginian</hi> Bounds</l>
+               <l>Confin'd to <hi>Byrſa</hi>'s Walls, his ſoul confounds.</l>
+               <l>Pity, and Rage, at once his thoughts divide,</l>
+               <l>Which ſtreight are wholly to revenge appi'd.</l>
+               <pb n="5" facs="tcp:100530:5"/>
+               <l>Revenge, that gives all eaſe to preſent Ills,</l>
+               <l>And with falſe hope deluded Fancy fills.</l>
+               <l>On this he often meditates, yet dares</l>
+               <l>Not ſpeak his thoughts, but while he hopes, deſpairs.</l>
+               <l>He's ſafe, while his deſigns he lays alone</l>
+               <l>But ſtill in danger, when to others known.</l>
+               <l>The Pow'r of <hi>Rome,</hi> all Courage had ſuppreſt,</l>
+               <l>And planted Terror in each <hi>Tyrian</hi> breſt;</l>
+               <l>So that all confidence of Friends orethrown,</l>
+               <l>The <hi>Punique</hi> Faith (now to a Proverb grown)</l>
+               <l>The neareſt Truſt, and ſtricteſt Vows betrays,</l>
+               <l>And Treachery Religion overſways.</l>
+            </lg>
+            <lg>
+               <l>But yet this Fury, with another joyn'd,</l>
+               <l>Diſpels theſe doubts, and reconfirms his mind.</l>
+               <l>Ambition, which in Hell her Throne maintains,</l>
+               <l>And equal, every where, with <hi>Pluto</hi> raigns,</l>
+               <l>Adorn'd with ſpoils of Kings, of Crowns, of Courts,</l>
+               <l>With their ſad Ruin, ſhe inſulting ſports</l>
+               <l>Her Eyes, with Envy fir'd, ſtill upward gaze,</l>
+               <l>As if ſhe'd blaſt, with thoſe Infectious Rayes,</l>
+               <l>All that above her ſhines. On either hand</l>
+               <l>Attending her commands, the Furies ſtand.</l>
+               <l>Rebellion, Murther Treaſon, with all Ills</l>
+               <l>Nurtur'd in Hell, ſhe the dire Circle fills.</l>
+               <l>For Action arm d, and when from thence ſhe flies</l>
+               <l>T'embroil the World, they all are in diſguiſe.</l>
+               <l>
+                  <hi>Rebellion lifting up her zealous hands,</hi>
+               </l>
+               <l>
+                  <hi>Dreſt like Religion, at the Altar ſtands,</hi>
+               </l>
+               <l>
+                  <hi>And to deluded gods her Incenſe burns.</hi>
+               </l>
+               <l>
+                  <hi>Murther, her ſelf to awful Juſtice, turns.</hi>
+               </l>
+               <l>
+                  <hi>And Forms of Law, in all ſhe acts proclaims.</hi>
+               </l>
+               <l>
+                  <hi>Treaſon, the Loyal ſhape, and all the Names</hi>
+               </l>
+               <l>
+                  <hi>Of Vertue takes, officiouſly attends</hi>
+               </l>
+               <l>
+                  <hi>The Prince, and flatt'ring, all he do's commends;</hi>
+               </l>
+               <pb n="6" facs="tcp:100530:6"/>
+               <l>
+                  <hi>Till his had Deeds, the good by much out weigh,</hi>
+               </l>
+               <l>
+                  <hi>And ſo to Ruin, the ſecure betray.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>It was a time, when <hi>Carthage</hi> (though her Fall</l>
+               <l>Recorded was, from riſing <hi>Hannibal</hi>)</l>
+               <l>Grateful to his great Name, thoſe Annual Rites<note n="(d)" place="bottom">Though theſe Sacrifices were in uſe with ſome other Nations: (even among the <hi>Romans,</hi> until prohibi<g ref="char:EOLhyphen"/>ted by Decree of Senate, <hi>An. Urb. Cond. 657. Cornel. Lepid.</hi> and <hi>Licinius Craſſus</hi> Conſuls; <hi>Plin. lib. 30. Natural. Hiſtor.</hi>) yet moſt notorious they were among the <hi>Carthaginians,</hi> who obſerved them yearly. <hi>Vid. Sil. Ital. lib. 4.</hi>
+                  </note>
+               </l>
+               <l>In <hi>Dido</hi>'s ruin d Grove, three following Nights,</l>
+               <l>Perform'd, which dire Religion, long ago,</l>
+               <l>Had celebrated to the Pow'rs below.</l>
+               <l>When at the Altars cruel Mothers ſtood,</l>
+               <l>And from their Breſts, while yet they ſuck d their blood,</l>
+               <l>With flatt'ring kiſſes, ſmiling Babes betray'd</l>
+               <l>To <hi>Stygian</hi> flames, and dreadful Victims made:</l>
+               <l>While Nature in the Act ſubdu'd appears,</l>
+               <l>And Zeal choaks all their Sighs, &amp; ſtops their Tears<note n="(e)" place="bottom">In great Calamities, commonly the Children of the Nobility were choſen by Lot, who ſometimes redeem'd them by the purchaſe of others; whoſe Mothers loſt their Reward, if they were ſeen to weep or ſigh: con<g ref="char:EOLhyphen"/>tinually kiſſing and flatt'ring their Children, that the Sacrifice might not he offered weeping or lamenting. <hi>Vid. Arnob. lib. 8. Plutarch. de Superſtit.</hi>
+                  </note>
+               </l>
+            </lg>
+            <lg>
+               <l>The Night was come, when to <hi>Barcinna,</hi> ſprung</l>
+               <l>From the <hi>Bareean Line,</hi> and when but young,</l>
+               <l>(Scarce full three <hi>Luſtra</hi> old) by <hi>Hymen</hi> joyn d</l>
+               <l>To <hi>Haſdrubal,</hi> when the glad Prieſt divin'd,</l>
+               <l>She, for her Countrey, with a Name above</l>
+               <l>Her Sex, ſhould Valour's great example prove;</l>
+               <pb n="7" facs="tcp:100530:6"/>
+               <l>To Her, with a diſtracted look, he thus</l>
+               <l>Begins, <hi>What end to</hi> Carthage, <hi>and to <g ref="char:V">Ʋ</g>s,</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>s born to Greater Things, do's Fate deſign?</hi>
+               </l>
+               <l>
+                  <hi>Fortune not <g ref="char:V">Ʋ</g>s, We rather Her decline,</hi>
+               </l>
+               <l>
+                  <hi>While thus, with our unactive hands, we ſeem</hi>
+               </l>
+               <l>
+                  <hi>As chain'd, nor ſeek Our Countrey to redeem.</hi>
+               </l>
+               <l>Rome, <hi>though remote, with her Decrees alone,</hi>
+               </l>
+               <l>
+                  <hi>Extends perfidious</hi> Maſſaniſſa<hi>'s Throne;</hi>
+               </l>
+               <l>
+                  <hi>Our Walls contracts, deprives us of our Force,</hi>
+               </l>
+               <l>
+                  <hi>And from Our Temples doth Our Gods divorce.</hi>
+               </l>
+               <l>
+                  <hi>All that with <g ref="char:V">Ʋ</g>s is Sacred, is their Scorn,</hi>
+               </l>
+               <l>
+                  <hi>Our Altars Spoils, Triumphal Cars adorn.</hi>
+               </l>
+               <l>
+                  <hi>'Tis not enough that they ſhould <g ref="char:V">Ʋ</g>s ſubdue,</hi>
+               </l>
+               <l>
+                  <hi>Our Laws are loſt, Religion's captiv'd too.</hi>
+               </l>
+               <l>
+                  <hi>Yet this, true</hi> Libyan <hi>Courage may reſtore,</hi>
+               </l>
+               <l>
+                  <hi>We may do that which hath been done before.</hi>
+               </l>
+               <l>
+                  <hi>A Woman first Our Fam'd Foundation lay'd,</hi>
+               </l>
+               <l>
+                  <hi>Heav'n hath to Thee, a Soul, as brave convey'd.</hi>
+               </l>
+               <l>
+                  <hi>All that was Great in Her, Thou art, and more:</hi>
+               </l>
+               <l>
+                  <hi>As to Begin is leſs, than to Reſtore.</hi>
+               </l>
+               <l>
+                  <hi>Her weak Beginnings nothing did oppoſe.</hi>
+               </l>
+               <l>Rome, <hi>and the World about <g ref="char:V">Ʋ</g>s, are Our Fots;</hi>
+               </l>
+               <l>
+                  <hi>As if that Heav'n had built up all theſe Pow'rs</hi>
+               </l>
+               <l>
+                  <hi>To be o'rthrowu, and make that Glory Ours.</hi>
+               </l>
+               <l>
+                  <hi>Great Actions from their dangers take eſteem,</hi>
+               </l>
+               <l>
+                  <hi>And ſhould we want ſucceſs, we ſhall not ſeem</hi>
+               </l>
+               <l>
+                  <hi>In Story leſs: 'tis next to Victory</hi>
+               </l>
+               <l>
+                  <hi>To attempt bravely, and if</hi> Carthage <hi>be</hi>
+               </l>
+               <l>
+                  <hi>Deſtin'd to Ruin, Future Times will call</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>s Happy, who ſcorn to ſurvive her Fall.</hi>
+               </l>
+               <l>As thus he ſpake, <hi>Barcinna</hi> whom the ſame</l>
+               <l>Thoughts and deſires did equally inflame,</l>
+               <l>Prevents the reſt with Kiſſes, and inſpires</l>
+               <l>New Rage into Him with thoſe melting Fires;</l>
+               <pb n="8" facs="tcp:100530:7"/>
+               <l>Applauds his high Deſigns (for her before</l>
+               <l>The Furies had poſſeſs d with this and more:)</l>
+               <l>Tells him, with ſmiles, <hi>This,</hi> Haſdrubal, <hi>alone,</hi>
+               </l>
+               <l>
+                  <hi>Becomes Our Blood, and can give Thee a Throne.</hi>
+               </l>
+               <l>Hopes of Revenge and Pow'r, may Woman bear</l>
+               <l>To all Attempts, if not reſtrain'd by Fear.</l>
+               <l>
+                  <hi>Her above that</hi> Barcean <hi>Blood had plac'd,</hi>
+               </l>
+               <l>
+                  <hi>And therefore all things elſe, ſhe ſoon embrac'd;</hi>
+               </l>
+               <l>All that his Reaſon could before Her lay,</l>
+               <l>As to be ſhun'd, her Courage takes away.</l>
+               <l>She <hi>Rome</hi>'s and <hi>Maſſaniſſa</hi>'s force defies.</l>
+               <l>And fondly dreams of Future Victories.</l>
+               <l>Cries, <hi>Come</hi> (<hi>my</hi> Haſdrubal) <hi>'tis only Fear</hi>
+               </l>
+               <l>
+                  <hi>Hath kept that Yoak, upon <g ref="char:V">Ʋ</g>s, which We bear.</hi>
+               </l>
+               <l>
+                  <hi>Now ſhake it off; <g ref="char:V">Ʋ</g>nited Force, though leſs</hi>
+               </l>
+               <l>
+                  <hi>Than when diſpers'd, is nearer to ſucceſs.</hi>
+               </l>
+               <l>
+                  <hi>Our ſtrength, which once their Policy disjoyn'd,</hi>
+               </l>
+               <l>
+                  <hi>Their Tyranny doth now more firmly bind.</hi>
+               </l>
+               <l>Carthage <hi>is One; not</hi> Hanno<hi>'s Race can call</hi>
+               </l>
+               <l>
+                  <hi>Themſelves more free, than that of</hi> Hannibal.</l>
+               <l>
+                  <hi>We all are equal Slaves, all equal Foes,</hi>
+               </l>
+               <l>Rome <hi>after Victory, no Difference knows.</hi>
+               </l>
+               <l>
+                  <hi>No Faction now, will for their Peace declaime,</hi>
+               </l>
+               <l>
+                  <hi>All equally deteſt the</hi> Dardane <hi>Name.</hi>
+               </l>
+               <l>
+                  <hi>Babes from Our breſts, an innate hatred take,</hi>
+               </l>
+               <l>
+                  <hi>And curſe a</hi> Roman, <hi>ſoon as they can ſpeak</hi>
+               </l>
+               <l>
+                  <hi>No Age, or Sexe, will their beſt Aid deny,</hi>
+               </l>
+               <l>
+                  <hi>And thoſe, who cannot fight for <g ref="char:V">Ʋ</g>s, can die.</hi>
+               </l>
+               <l>
+                  <hi>Die to appeaſe thoſe gods, whoſe Rites now loſt,</hi>
+               </l>
+               <l>
+                  <hi>Have made poor</hi> Carthage <hi>mourn, and</hi> Rome <hi>to boaſt.</hi>
+               </l>
+               <l>As this ſhe ſpake, her hand ſhe laid upon</l>
+               <l>A lovely Boy (ſcarce ſix year old) her Son.</l>
+               <l>
+                  <hi>Princes, in pious Acts, ſhould Leaders be,</hi>
+               </l>
+               <l>
+                  <hi>And this the gods expect from <g ref="char:V">Ʋ</g>s,</hi> (ſaid ſhe)</l>
+               <pb n="9" facs="tcp:100530:7"/>
+               <l>
+                  <hi>This was the Firſt-Fruit of our Nuptial Vow,</hi>
+               </l>
+               <l>
+                  <hi>And we the Nobleſt Victims ſhould allow</hi>
+               </l>
+               <l>
+                  <hi>To Pow'rs, which we adore:</hi> Amaz'd he ſtood</l>
+               <l>At this, and Horror runs through all his blood.</l>
+               <l>Within himſelf he feels a cruel War,</l>
+               <l>And yet aſſents to what he do's abhor.</l>
+               <l>And ſtreight by either Hand, they lead the Boy,</l>
+               <l>A Sacrifice both of their Grief and Joy.</l>
+               <l>The Place and Seaſon for the Fact conſpires,</l>
+               <l>The Night in Horror wrapt up all her Fires.</l>
+               <l>The Moon to Hell retir'd, aſham'd her Eye</l>
+               <l>Should ſee it, while She govern'd in the Sky,</l>
+               <l>The Place (a Place of Terror) was the Wood</l>
+               <l>Where once <hi>Elyſa</hi>'s <hi>Stygian</hi> Temple ſtood.</l>
+               <l>Where Birds of Night, perpetual Dirges ſung</l>
+               <l>Of thoſe were ſacrificed, and among</l>
+               <l>The Boughs and hollow Trunks, ſad howlings gave.</l>
+               <l>Under the Temple was a ſpacious Cave,</l>
+               <l>Where in eternal Darkneſs next to Hell,</l>
+               <l>The dreadful Prieſteſs, ever choſe to dwell;</l>
+               <l>Deteſting all that pleas'd the Eye or Ear,</l>
+               <l>A conſtant Friend to Terror and Deſpair.</l>
+               <l>Three Lamps, with Sulphur fill'd, a noiſome Miſt</l>
+               <l>Expir'd, and Serpents in each corner hiſt.</l>
+               <l>The Roman General, who did abhor</l>
+               <l>What here was done, after the former War</l>
+               <l>This Temple with the Grove had quite deſtroy d,</l>
+               <l>But yet they, ſecretly, the Cave enjoy'd.</l>
+               <l>In midſt of which a Marble Altar ſtood</l>
+               <l>Still to maintain their thirſt of Human blood.</l>
+               <l>Hither this Impiouſly Pious Pair</l>
+               <l>Conduct their Son, upon whoſe curling Hair</l>
+               <l>His cruel Mother ſeveral Fillets ty'd,</l>
+               <l>In each a Charm; pleas'd with their Fatal Pride,</l>
+               <pb n="10" facs="tcp:100530:8"/>
+               <l>The Pomp of his approaching Death, the Child</l>
+               <l>Firſt on his Father, then on's Mother ſmil'd;</l>
+               <l>Who takes Him in her Arms, and thrice careſs'd</l>
+               <l>With Kiſſes, while He, mutually expreſs'd</l>
+               <l>His Joy, and's hands upon her Shoulders throws;</l>
+               <l>While the ſad Father, by his ſilence ſhows</l>
+               <l>His inward grief. She like <hi>Medea</hi> round</l>
+               <l>The Altar trots, and with the dreadful ſound</l>
+               <l>Of words, ſcarce underſtood, the Pow'rs of Hell</l>
+               <l>Implores, with all that in thoſe Manſions dwell.</l>
+               <l>All that ſhe fondly, did believe could lend</l>
+               <l>Their Aid, or did of <hi>Cadmus</hi> Race deſcend.</l>
+               <l>Above the reſt She <hi>Hannibal</hi> invokes,</l>
+               <l>And ſtreight at his great Name the Altar ſmokes.</l>
+               <l>A thick and gloomy Flame from neighb'ring Hell,</l>
+               <l>Aroſe, and ſtruck the Senſe with Sulph'rous ſmell.</l>
+               <l>Pleas'd with the Prodigy (ſhe cries) <hi>See there,</hi>
+               </l>
+               <l>
+                  <hi>My</hi> Haſdrubal, <hi>ſee where the gods appear.</hi>
+               </l>
+               <l>
+                  <hi>From her own Throne, ſee</hi> Hecate, <hi>intent</hi>
+               </l>
+               <l>
+                  <hi>In what we offer here, her Fire hath ſent</hi>
+               </l>
+               <l>
+                  <hi>A friend to</hi> Hannibal, <hi>and all that are</hi>
+               </l>
+               <l>
+                  <hi>Friends to his Name, and</hi> Carthage <hi>in this War,</hi>
+               </l>
+               <l>
+                  <hi>The Omen (pow'r ful goddeſs) we adore,</hi>
+               </l>
+               <l>
+                  <hi>And thy forſaken Rites we thus reſtore.</hi>
+               </l>
+               <l>This ſaid, the dire diſtraction of her Face</l>
+               <l>Creates and adds new Terror to the place.</l>
+               <l>The Boy ſnatch'd up, She on the Altar flings,</l>
+               <l>And horrid Notes in broken Murmurs ſings.</l>
+               <l>So to delude, and to ſuppreſs his cryes,</l>
+               <l>Till ſmiling on her Face with doubtful Eyes,</l>
+               <l>The Stygian Knife, was to his Throat apply'd,</l>
+               <l>Which twice the trembling Father put aſide;</l>
+               <l>Until at length Religion overſway d,</l>
+               <l>And Nature Laws, which ſhe deteſts, obey'd.</l>
+            </lg>
+            <pb n="11" facs="tcp:100530:8"/>
+            <lg>
+               <l>The Wound thus by the Mother given, the Life</l>
+               <l>O'th Child, ſtreight follow'd the Retracted Knife.</l>
+               <l>Then with redoubled ſtrokes ſhe opens wide</l>
+               <l>His breſt, where her dire Hands the Lungs divide,</l>
+               <l>And a freſh Part at every dreadful Name</l>
+               <l>Of <hi>Hecat,</hi> offers to the Riſing Flame,</l>
+               <l>Till, with the Night conſum'd, th approaching day,</l>
+               <l>(Which muſt not ſee ſuch deeds) them call'd away.</l>
+            </lg>
+            <lg>
+               <l>And now the noiſe of war all <hi>Libya</hi> fills,</l>
+               <l>And Prodigies denounce approaching Ills.</l>
+               <l>Wild Beaſts the Deſarts quit in midſt of Day,</l>
+               <l>Run into Cities, and return with prey.</l>
+               <l>Serpents from thirſty ſands to Rivers fly,</l>
+               <l>And poiſon ſprings, while there they drink and dye.</l>
+               <l>Earth in her Womb doth ſtrange Convulſions feel,</l>
+               <l>By which the Palaces of Princes reel,</l>
+               <l>As drunk, with luſts of thoſe, who in them dwell.</l>
+               <l>And to fore-ſhew their Maſters Ruin, fell.</l>
+               <l>The Sea, unmov'd by Winds, is heard to roar,</l>
+               <l>And caſts up bodies long ſince wrack'd aſhore.</l>
+               <l>Prodigious Fires above her Surface flie,</l>
+               <l>While Mariners no more explore the Skie</l>
+               <l>For Guides to ſail, but fool'd by Pannick Fear,</l>
+               <l>Forſake their Courſe, and after Meteors ſteer,</l>
+               <l>Comets with points uncertain ſhine above,</l>
+               <l>And threaten all beneath them as they move:</l>
+               <l>Or menace, as their flatt'ring Prophets ſay,</l>
+               <l>All Nations but their own, and ſo betray</l>
+               <l>To a ſecure Credulity their Friends,</l>
+               <l>Or to preſume gainſt that, which Heav'n intends.</l>
+               <l>And ſuch was <hi>Haſdrubal</hi>'s ſad Fate, who now,</l>
+               <l>Aſſumes the War, under a guilty Vow.</l>
+               <l>Turns all thoſe threatnings of the gods on thoſe,</l>
+               <l>Who <hi>Carthage</hi> emulate, or are her Foes.</l>
+            </lg>
+            <pb n="12" facs="tcp:100530:9"/>
+            <lg>
+               <l>Mong all the Nations, that in <hi>Libya</hi> dwell,</l>
+               <l>From whence the <hi>Niles</hi> eternal Waters ſwell.</l>
+               <l>To <hi>Ethiopian</hi> Woods, or dangerous Sands</l>
+               <l>Of <hi>Naſamon,</hi> none equal Force commands</l>
+               <l>To the <hi>Numidian,</hi> a People bleſt</l>
+               <l>With Air, and Soil, more temperate than the reſt.</l>
+               <l>They Natures Dictate follow every where,</l>
+               <l>And promptly, whatſoever Earth doth bear,</l>
+               <l>Take up for Food, without all skill to raiſe</l>
+               <l>The Appetite, the Dews of Nights and Days,</l>
+               <l>Intemperate Heats, they patiently endure,</l>
+               <l>And to Continual Toil themſelves enure.</l>
+               <l>Ready for War, flying the Arts of Court</l>
+               <l>And City-frauds, They to the Fields reſort,</l>
+               <l>Lodge with their Flocks, ſtill arm'd, expect the Foe,</l>
+               <l>No coſtly Equipage for Camps they know,</l>
+               <l>Nor ought that may effeminate the mind.</l>
+               <l>Over all theſe, ſince <hi>Carthage</hi> firſt declin'd,</l>
+               <l>
+                  <note n="(f)" place="bottom">
+                     <hi>Maſſaniſſa</hi> confident of the Friendſhip he had con<g ref="char:EOLhyphen"/>tracted with the Houſe of <hi>Scipio,</hi> at his death left his Kingdom to be divided among his three Sons, as <hi>Sci<g ref="char:EOLhyphen"/>pio</hi> ſhould determine; who ſo diſpoſed the parts of it, as none of them ſhould be intruſted with too much power. <hi>Appian. ibid.</hi>
+                  </note>Great <hi>Maſſaniſſa</hi> reign'd; but, ſoon as Fate</l>
+               <l>Took him away, <hi>Rome</hi> conſcious of what weight</l>
+               <l>That Scepter was, not to be ſway'd by One</l>
+               <l>Alone, divides it. On his Eldeſt Son</l>
+               <l>The nobleſt Part, the Charge of Peace at Home,</l>
+               <l>
+                  <note n="(g)" place="bottom">
+                     <hi>Cirta,</hi> ſituate in the midſt of <hi>Numidia,</hi> the <hi>Metro<g ref="char:EOLhyphen"/>polis</hi> of <hi>Maſſaniſſa</hi> and his Succeſſors Kingdom, and by them made ſo potent, that it could furniſh out <hi>10000</hi> Horſe, and <hi>20000</hi> Foot. <hi>Vid. Strab. lib. 17.</hi>
+                  </note>Beſtows, with <hi>Cirta</hi>'s Riches, but (what <hi>Rome</hi>
+               </l>
+               <pb n="13" facs="tcp:100530:9"/>
+               <l>Did more import) upon the Next confers</l>
+               <l>The Charge of all <hi>Numidia</hi>'s Arms and Wars.</l>
+               <l>Whither they ſhould purſue <hi>Mauruſian</hi> Horſe,</l>
+               <l>Or <hi>Byrſa</hi>'s Walls, or <hi>Hippargeta</hi> Force:</l>
+               <l>Or following <hi>Roman</hi> Enſigns Cities aw</l>
+               <l>That doubtfull ſtood, and to Alliance draw.</l>
+               <l>The Third the People did to Juſtice bring,</l>
+               <l>And Laws obſerv'd, in this no leſs a King;</l>
+               <l>Which Title by Decree they all did ſhare,</l>
+               <l>And equally the Royal Enſigns wear.</l>
+               <l>With this<note n="*" place="bottom">Three Brothers who reign'd in <hi>Spain,</hi> ſo unanimous in their Government, that they gave occaſion to Poets to fain them one Monſter with three heads, and all mem<g ref="char:EOLhyphen"/>bers trebled, <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>Gerion Rome</hi> a while maintain'd</l>
+               <l>Th'inſtable pow'r ſhe had in <hi>Africk</hi> gain'd;</l>
+               <l>But when deſpair again had <hi>Carthage</hi> arm'd</l>
+               <l>By <hi>Haſdrubal</hi>'s ſucceſsful I roops alarm'd,<note n="(h)" place="bottom">
+                     <hi>Haſdrubal</hi> had in the Field a flying Army of about <hi>20000</hi> men, with which he contiuually infeſted the <hi>Romans</hi> then in <hi>Africk;</hi> and upon ſome ſucceſſes over <hi>Manlius</hi> the Conſul, ſeveral Cities declared for him, and ſome joyned with him in the Field.</note>
+               </l>
+               <l>The <hi>Libyan</hi> Cities, the atteſted gods</l>
+               <l>Forget, and where they ſee the preſent odds,</l>
+               <l>To <hi>Carthage,</hi> or to <hi>Rome,</hi> as Friends adhere,</l>
+               <l>And lend their Aid, induc'd by Hope or Fear,</l>
+               <l>Some nobler Souls, their Countrey's Freedom fir'd,</l>
+               <l>Some Memory of Anceſtors inſpir'd,</l>
+               <l>Some that their Captiv'd gods might be reſlor'd,</l>
+               <l>Or Princes, whom they next to them ador'd;</l>
+               <l>Of theſe <hi>Numidia</hi> many yet retain'd,</l>
+               <l>Who <hi>Syphax</hi> Name ſtill honour'd and diſdain'd</l>
+               <pb n="14" facs="tcp:100530:10"/>
+               <l>The pride of <hi>Rome,</hi> who no diſtinction made</l>
+               <l>'Twixt Kings, and Slaves, but did alike invade</l>
+               <l>Their Necks with Chains, and thoſe of higheſt Birth,</l>
+               <l>(The next to Heav'n) levell'd with baſeſt Earth,</l>
+               <l>And, now with <hi>Haſdrubal Phamaeas</hi> joyns<note n="(i)" place="bottom">
+                     <hi>Phamaeas</hi> was made General of the Horſe to <hi>Haſ<g ref="char:EOLhyphen"/>drubal,</hi> and ſo active, that he in ſeveral conflicts, wor<g ref="char:EOLhyphen"/>ſted the <hi>Romans,</hi> and in their Marches cut off their Proviſions. <hi>Vid. Appian. ibid.</hi>
+                  </note>
+               </l>
+               <l>
+                  <hi>Numidian</hi> Troops, and <hi>Rome</hi>'s Command declines;</l>
+               <l>Derides her Faſces and her Conſul meets</l>
+               <l>In open Fields, and valiantly defeats</l>
+               <l>Her late Victorious Bands, and by ſucceſs</l>
+               <l>Her pow'r impairs, and makes her Glory leſs.</l>
+               <l>So that the Faith of <hi>Maſſaniſſa</hi>'s Heir,<note n="(k)" place="bottom">The ill ſucceſs of the <hi>Roman</hi> Arms both under <hi>Manlius</hi> and <hi>Calphurnius,</hi> gave courage to ſome to declare againſt them, and many to appear Neuters; among others one <hi>Bithyas</hi> left <hi>Gulaſſa</hi> (the ſecond Son of <hi>Maſſaniſſa</hi>) and fled with <hi>800</hi> Horſe to <hi>Haſ<g ref="char:EOLhyphen"/>drubal,</hi> while <hi>Micipſa</hi> and <hi>Maſtanabas</hi> his two Bro<g ref="char:EOLhyphen"/>thers, could not be invited to take the Field, neither would <hi>Gulaſſa</hi> march with the Army under his com<g ref="char:EOLhyphen"/>mand, but with the reſt expected further Events. <hi>Vid. Appian. ibid.</hi>
+                  </note>
+               </l>
+               <l>In Arms is broke, or elſe depreſsd by Fear.</l>
+               <l>While, doubtful, He his promis'd Aid with-draws,</l>
+               <l>And ſeems to favor <hi>Libya</hi>'s Common Cauſe,</l>
+               <l>Jealous alike, both of his Friends, and Foes,</l>
+               <l>Through Deſarts, and through Sands, the Conful goes,</l>
+               <l>To ſeek a ſafe Retreat, ſometimes he ſtands</l>
+               <l>In Battle, in a Plain; His weary Bands</l>
+               <l>Sometimes encamp d, are licenc'd to repoſe.</l>
+               <l>When ſtreight they are ſurrounded by their Foes:</l>
+               <pb n="15" facs="tcp:100530:10"/>
+               <l>Whoſe active Fury, to diſturb their Reſt,</l>
+               <l>With ſhow'rs of Darts, and Arrows them infeſt;</l>
+               <l>While, as beſieg'd, they day and night defend</l>
+               <l>Their Trenches, and ſtill freſh Aſſaults attend.</l>
+               <l>Here, with light Troops <hi>Phamaeas</hi> ſcoures the Plains,</l>
+               <l>There <hi>Haſdrubal</hi> all Forragers reſtrains,</l>
+               <l>Till Famine wak'd in every Roman Breſt</l>
+               <l>That ancient Valour which their Fear ſuppreſt:</l>
+               <l>Creates new Rage, gives ſuch a Senſe of Shame,</l>
+               <l>That, even the Common Men their Leaders blame,</l>
+               <l>Call for the Signal, and without delay,</l>
+               <l>Through their inſulting Foes do force their way.</l>
+               <l>All Order's loſt, and, what they did allow</l>
+               <l>Was Mutiny before, is Valour now.</l>
+               <l>In this brave Fury, with a joynt Conſent</l>
+               <l>They fill with Clamour the Pretorian Tent,</l>
+               <l>Where for the Reſt, <hi>Sertorius</hi> thus begun,</l>
+               <l>
+                  <hi>Do we live, Conſul, and behold the Sun,</hi>
+               </l>
+               <l>
+                  <hi>While all the Victories, that</hi> Rome <hi>may boaſt,</hi>
+               </l>
+               <l>
+                  <hi>In this Inglorious Camp, are tamely loſt?</hi>
+               </l>
+               <l>
+                  <hi>Even we are they, who in the Book of Fame,</hi>
+               </l>
+               <l>
+                  <hi>Degenerate, and Baſe, expunge her Name;</hi>
+               </l>
+               <l>
+                  <hi>All the Diſgraces, which her Infant Wars</hi>
+               </l>
+               <l>
+                  <hi>Had brought upon her, were with noble Scars,</hi>
+               </l>
+               <l>
+                  <hi>In her Maturer Age to Glories turn'd,</hi>
+               </l>
+               <l>
+                  <hi>And, where She once her ſlaughter'd Sons had mourn'd,</hi>
+               </l>
+               <l>
+                  <hi>Triumphal Arches ſtood, which now again</hi>
+               </l>
+               <l>
+                  <hi>We here demoliſh, with a deeper ſtain</hi>
+               </l>
+               <l>
+                  <hi>Than</hi>
+                  <note n="*" place="bottom">Where near the Town <hi>Caudium,</hi> the <hi>Samnites</hi> van<g ref="char:EOLhyphen"/>quiſhed the <hi>Roman</hi> Army, commanded by <hi>Sp. Poſthu<g ref="char:EOLhyphen"/>mius,</hi> making them all to paſs under the Toke.</note> Caudine <hi>ſtraits, or the Victorious</hi> Gaul</l>
+               <l>
+                  <hi>Could ere have giv'n, what more could</hi> Hannibal</l>
+               <pb n="16" facs="tcp:100530:11"/>
+               <l>
+                  <hi>Before have wiſh'd, or</hi> Carthage <hi>now deſire</hi>
+               </l>
+               <l>
+                  <hi>Then thus to ſee the</hi> Roman <hi>Youth expire,</hi>
+               </l>
+               <l>
+                  <hi>Arm'd, and without a Wound. It is Our Fear</hi>
+               </l>
+               <l>
+                  <hi>Gives Strength and Courage to the Foe, 'tis here,</hi>
+               </l>
+               <l>
+                  <hi>We put the</hi> Capitol, <hi>into their Pow'r.</hi>
+               </l>
+               <l>
+                  <hi>To raviſh Matrons, Virgins to deflowre,</hi>
+               </l>
+               <l>
+                  <hi>To captivate Our Sons, and what is more</hi>
+               </l>
+               <l>
+                  <hi>To give Them, All that World was Ours before.</hi>
+               </l>
+               <l>
+                  <hi>Oh baſe deſire of Life! when abject Fear</hi>
+               </l>
+               <l>
+                  <hi>Of Death, ſhall prompt <g ref="char:V">Ʋ</g>s all, thoſe Ills to bear!</hi>
+               </l>
+               <l>
+                  <hi>Theſe Wounds</hi> (with that detects his Breſt) <hi>theſe Scars,</hi>
+               </l>
+               <l>
+                  <hi>Enſigns of Honour, gain'd in Former Wars,</hi>
+               </l>
+               <l>
+                  <hi>Would bluſh for ſhame, did not the want of Food</hi>
+               </l>
+               <l>
+                  <hi>Which makes them pale, deny ſupplies of Blood.</hi>
+               </l>
+               <l>
+                  <hi>If after this, another life there be</hi>
+               </l>
+               <l>
+                  <hi>Where Vertue hath reward, unhappy We</hi>
+               </l>
+               <l>
+                  <hi>Who, though this Infamy, no place can claim</hi>
+               </l>
+               <l>
+                  <hi>In thoſe bleſt Shades, with thoſe of</hi> Roman <hi>Name.</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nburied here, our Ghoſts must wandr'ing go,</hi>
+               </l>
+               <l>
+                  <hi>Lamenting ſtill this Memorable Wo,</hi>
+               </l>
+               <l>
+                  <hi>And never</hi> Lethe <hi>paſs.</hi> As this he ſpoke,</l>
+               <l>A ſtorm of ſighs the Camp about him ſhook.</l>
+               <l>Their pallid Cheeks o'reflown with Silent Tears,</l>
+               <l>And Indignation ſtrait expelling Fears,</l>
+               <l>Their Eagles are advanc'd, and every Hand</l>
+               <l>Arm'd for the Charge, expecting the Command</l>
+               <l>Which now the Conſul gives, and leads them on,</l>
+               <l>With that the Gates and Ramparts overthrown,</l>
+               <l>They ruſh into the Plain, as when with rain</l>
+               <l>Increas'd, the Banks that lately did reſtrain</l>
+               <l>Its force, a River overflows, and fills</l>
+               <l>The neighb'ring level round, ſtrait to the Hills</l>
+               <l>The Shepheards with their Flocks affrighted fly,</l>
+               <l>The Heards their Paſtures quit, and ſuddenly</l>
+               <pb n="17" facs="tcp:100530:11"/>
+               <l>The Folds and Cottages are born away,</l>
+               <l>And to the Torrent, the whole Field's a Prey.</l>
+               <l>With no leſs Fury the <hi>Auſonian</hi> Bands</l>
+               <l>The <hi>Libyans</hi> invade; no Force withſtands</l>
+               <l>Where they appear, but ſcatter'd through the Plain</l>
+               <l>Where Terrour leads, they fly, while all, in vain,</l>
+               <l>Here <hi>Haſdrubal, Phamaeas</hi> there exclaims,</l>
+               <l>Upbraids their flight, recalls them by their Names</l>
+               <l>Into the Fight: but deafneſs every Ear</l>
+               <l>Had ſtopt, and Senſe of Honour's loſt in Fear.</l>
+               <l>All forward preſs, not any One is found</l>
+               <l>To turn his Face, and take a noble Wound,</l>
+               <l>But feel that Danger, which they never ſee,</l>
+               <l>While Showers of Piles and Javelins as they flee,</l>
+               <l>Fall on their backs. Confuſion drives them all,</l>
+               <l>Yet ſtops their ſpeed, while every one doth call</l>
+               <l>On his Comrade, and with a threatning Hand</l>
+               <l>Repells his Steed, and bids him make a ſtand,</l>
+               <l>Yet ſpurs to be the firſt, until the Night</l>
+               <l>Approach'd, and better to ſecure their flight,</l>
+               <l>Upon an Hill a ſpatious Wood appear'd,</l>
+               <l>Thither they flie: there, boldly, what they fear'd</l>
+               <l>Examine, why they fled? who firſt begun</l>
+               <l>To turn their backs, and from the Combat run?</l>
+               <l>None guilty are, on Fortune, all, the Crime</l>
+               <l>Reject, and vow Revenge another time.</l>
+            </lg>
+            <lg>
+               <l>And now with conſtant ſpeed, the Hours had run,</l>
+               <l>To call to <hi>Thetis</hi> Bed the ſleeping Sun:</l>
+               <l>Where while He lay, both Armies watchful are,</l>
+               <l>And fear, alike, the Stratagems of War.</l>
+               <l>The Roman General amidſt the Plain</l>
+               <l>Sets out, anew his Camp, and calls again</l>
+               <l>His Troops from the purſuit, rewards the Toils</l>
+               <l>Of this ſo happy Day, with <hi>Libyan</hi> Spoils.</l>
+               <pb n="18" facs="tcp:100530:12"/>
+               <l>Spoils by deſpair, as well, as Valour gain'd,</l>
+               <l>And without danger not to be retain'd.</l>
+               <l>For now incens'd, at their ſo ſhameful Flight</l>
+               <l>The <hi>Libyans</hi> in Counſel ſpend the Night.</l>
+               <l>And with the riſing Day advance again,</l>
+               <l>And cover with their rallied Force the Plain,</l>
+               <l>Rending with barbarous ſhowts the trembling Air,</l>
+               <l>When ſtrait the <hi>Romans</hi> to their Arms repair;</l>
+               <l>And with prompt Courage in good Order from</l>
+               <l>Their Trenches March, as if in view of <hi>Rome,</hi>
+               </l>
+               <l>Their Publique gods, and every Private Lar,</l>
+               <l>Had witneſs'd, how they then purſu'd the War.</l>
+               <l>The <hi>Libyan</hi> Troops on every ſide appear,</l>
+               <l>Sometimes the Front infeſt; ſometimes the Rear.</l>
+               <l>Then on the Flanks impetuouſly fall.</l>
+               <l>Or flying, <hi>Parthian</hi>-like, with Arrows gall</l>
+               <l>Th' advancing Foe, whoſe conſtant Valour makes</l>
+               <l>His way, and all Attempts againſt him breaks.</l>
+               <l>As when a Bull, firſt in the Cirque appears</l>
+               <l>While Crys of Dogs, and Showts of Men his Ears</l>
+               <l>Invade, He expects the ſight, and murmuring ſtands</l>
+               <l>And kicking into Air the flying ſands,</l>
+               <l>Prepares his Fury, that ſtill greater grows</l>
+               <l>By the Attaques, and Clamor of his Foes.</l>
+               <l>Which, though on every ſide he bravely ſcorns,</l>
+               <l>Some cruſhing with his Feet, ſome with his Horns,</l>
+               <l>Toſt to the Clouds, through all he, fearleſs, runs,</l>
+               <l>Meets every Wound, nothing of danger ſhuns,</l>
+               <l>Till by his rage, his ſtrength improv'd, he o'rthrows</l>
+               <l>The Bars, and breaks, a Conqueror, through his Foes.</l>
+            </lg>
+            <lg>
+               <l>Fam'd through the <hi>Libyan</hi> Coaſt, old <hi>Hippo</hi> ſtands<note n="(l)" place="bottom">This <hi>Hippo</hi> (for there were two in <hi>Africa</hi>) was like<g ref="char:EOLhyphen"/>wiſe called <hi>Hippargeta,</hi> ſituate betwixt <hi>Carthage</hi> and <hi>Utica,</hi> of great ſtrength, and very commodiouſly built upon the Sea-coaſt by <hi>Agathocles</hi> King of <hi>Syracuſa.</hi> Their Emulation of <hi>Utica</hi>'s power, made them conſtant in their friendſhip to <hi>Carthage.</hi>
+                  </note>
+               </l>
+               <l>Whoſe Walls, at firſt, rais'd by <hi>Tinacrian</hi> Bands,</l>
+               <l>By Naval Power, o'r all the neighb'ring Sea</l>
+               <l>Such Terror ſpred, was ſo enrich'd by prey,</l>
+               <pb n="19" facs="tcp:100530:12"/>
+               <l>That, emulous of <hi>
+                     <g ref="char:V">Ʋ</g>tica</hi> by none,</l>
+               <l>She was excell'd, but <hi>Dido'</hi> Towers alone.</l>
+               <l>Reſolv'd her <hi>Fate,</hi> whate'r it was, to bear</l>
+               <l>Where <hi>Carthage</hi> had a Foe, ſhe, firmly, there</l>
+               <l>A Friend appear'd, her Enemies defies,</l>
+               <l>And all her wants, with <hi>Roman</hi> ſpoils ſupplies.</l>
+               <l>Thither through all the dangers of a way<note n="(m)" place="bottom">
+                     <hi>Calphurnius</hi> comming before <hi>Carthage,</hi> thoſe of <hi>Hip<g ref="char:EOLhyphen"/>po</hi> were ſo active in its Reliefe, by burning his Engines, and deſtroying his Works towards the Sea, that quitting <hi>Carthage,</hi> he reſolved firſt to be revenged on <hi>Hippo;</hi> but ſpending the whole Summer in this Siege, with great loſs both of Men and Honour, he was forced to retire to Winter in <hi>Utica. Vid. Appian. ibid.</hi>
+                  </note>
+               </l>
+               <l>That or to want or labour could betray</l>
+               <l>Their troops, the <hi>Romans</hi> march, with hope their Fame,</l>
+               <l>(By a freſh Conqueſt of ſo great a Name)</l>
+               <l>Again to raiſe, to wipe off Widdows tears</l>
+               <l>At home, and <hi>Rome</hi> abſolve from future Fears.</l>
+               <l>For weak, as at her Birth then <hi>Carthage</hi> ſtood;</l>
+               <l>Full of diſtempers, Faint with loſs of Blood.</l>
+               <l>Like a ſick body whoſe declining Parts</l>
+               <l>Supported are alone by outward Arts;</l>
+               <l>Which once with-drawn, to Ruin the whole Frame</l>
+               <l>Inclines, and ſcarce retains an empty name.</l>
+               <l>Such then with <hi>Hippo</hi>'s <hi>(Carthage)</hi> was thy Fate.</l>
+               <l>
+                  <hi>Hippo,</hi> thy ſole Support, and Prop of State.</l>
+               <l>Whoſe Friendſhip (which the World now only knows</l>
+               <l>By name) all Shocks of Fortune did oppoſe.</l>
+               <pb n="20" facs="tcp:100530:13"/>
+               <l>Scorning to baſe Advantage to give way,</l>
+               <l>Or let her Profit, 'bove Her Honour ſway;</l>
+               <l>Still mindful of the Vows which ſhe had made,</l>
+               <l>While even the greateſt <hi>Libyans</hi> betray'd</l>
+               <l>Their Faith, and ſuch <hi>Phamaea</hi>'s, nor is't ſtrange</l>
+               <l>That Men of Noble Birth are apt to change.</l>
+               <l>Since Intereſt firſt from Earth <hi>Astrea</hi> forc'd,</l>
+               <l>And Piety from Souls of Men divorc'd,</l>
+               <l>Fear to be leſs, and an untam'd Deſire</l>
+               <l>To be more great, ſo furiouſly conſpire,</l>
+               <l>That rarely Virtue, mixt with their high Blood,</l>
+               <l>Makes them continue Valiant, Juſt, or Good.</l>
+               <l>Whether Ambition to be rais'd above</l>
+               <l>What <hi>Carthage</hi> did allow, at firſt did move</l>
+               <l>His thought to this, as <hi>Maſſaniſſa</hi> found</l>
+               <l>Himſelf above his hopes, with Empire Crown'd,</l>
+               <l>After he <hi>Roman</hi> Arms to <hi>Libyan</hi> joyn'd;</l>
+               <l>Or that the Fear of <hi>Rome</hi>'s great Power inclin'd</l>
+               <l>His Soul to Treachery, He in the view</l>
+               <l>Of his Arm'd Friends, whom that they ſhould purſue</l>
+               <l>His vile example, he invites aloud,</l>
+               <l>
+                  <note n="(*)" place="bottom">
+                     <hi>Phamaeas</hi> reſolving to revolt to the <hi>Romans,</hi> would render himſelf to none but <hi>Scipio Aemilianus</hi> then a Com<g ref="char:EOLhyphen"/>mander under the Conſul, and famous for his Integrity; who ſent him to <hi>Rome,</hi> where the Senate received him with great Honour. <hi>Vid. Appian. in Lybicis.</hi>
+                  </note>To <hi>Scipio</hi> flies, and to <hi>Rome</hi>'s Service vow'd</l>
+               <l>His future Arms, and ſafety, baſely, ſought</l>
+               <l>From that right hand, which ſo great Ruine brought</l>
+               <l>Upon his Countrey, th' Infamous Reward</l>
+               <l>Of Treaſon, which all generous Souls abhorr'd,</l>
+               <l>At <hi>Rome</hi> receives, with honours ſeeks his ſhame</l>
+               <l>To hide, while <hi>Carthage</hi> execrates his Name.</l>
+            </lg>
+            <pb n="21" facs="tcp:100530:13"/>
+            <lg>
+               <l>And now about the Walls, their Eagles ſhine</l>
+               <l>With Silver Wings, while all within combine</l>
+               <l>Againſt their Force, no Age, nor Sex their hands</l>
+               <l>With-hold, but bravely, in divided Bands</l>
+               <l>Their fierceſt Rage, with equal Fury meet,</l>
+               <l>And Stratagems with Stratagems defeat;</l>
+               <l>Nor from the Walls alone, their Valour ſhow,</l>
+               <l>But day and night, with Sallies vex the Foe;</l>
+               <l>Their Trenches, with their frequent ſlaughters fill,</l>
+               <l>And (as all <hi>Africk</hi> they excel'd in skill</l>
+               <l>At Sea) the fierce Invaders from the Port</l>
+               <l>Repel, and in their Gallies Ruins ſport.</l>
+               <l>Not <hi>Archimides</hi> in <hi>Sicilian</hi> Wars,</l>
+               <l>Toſſing tall Ships, like Balls, unto the Stars,</l>
+               <l>As if he had deſign'd to invade their Sphere,</l>
+               <l>And fix more wond'rous Conſtellations there,</l>
+               <l>Then <hi>Colchis</hi> had renown'd, could e'r employ</l>
+               <l>More Arts, the <hi>Roman</hi> Navy to deſtroy.</l>
+               <l>While vain attempts, their Foes with terror fill'd,</l>
+               <l>And Winter's Cold, their Limbs and Courage chill'd.</l>
+               <l>When both by Sea and Land inceſſant ſtorms</l>
+               <l>Threaten'd to theſe a Wrack, the Uſe of Arms</l>
+               <l>To thoſe deny'd, and the Beſieg'd enjoy</l>
+               <l>All ſhelter from thoſe Ills which them annoy:</l>
+               <l>And with their plenty from the Walls upbraid</l>
+               <l>Their Camps neceſſities, with Wealth diſplay'd,</l>
+               <l>Their ſilent Bands to new Attaques invite,</l>
+               <l>And proudly, but in vain, provoke the fight.</l>
+               <l>For now the change of <hi>Faſces,</hi> as the year</l>
+               <l>Expir'd, and Augurs ſuperſtitious Fear,</l>
+               <l>The Conſul to remove the Camp perſwade,</l>
+               <l>And their known Valour to ſtrange doubts betray'd;</l>
+               <l>While from their Birds fantaſtick Appetite,</l>
+               <l>Which Food rejects, or their Ambiguous flight,</l>
+               <pb n="22" facs="tcp:100530:14"/>
+               <l>They boldly dare pronounce the future State</l>
+               <l>Of things, as if they read the Book of Fate.</l>
+               <l>And from ſwoln Entrails of ſlain Beaſts divine</l>
+               <l>That <hi>Carthage</hi> then ſhould riſe and <hi>Rome</hi> decline.</l>
+               <l>Even thoſe who Nature's Secrets with a more</l>
+               <l>Sublime Conceit, and ſharper Senſe explore,</l>
+               <l>From the Aſpects of Stars and Planets ſeem</l>
+               <l>To ſtamp their guilty Follies with eſteem,</l>
+               <l>And Heav'n entitle to the Crime, and ſtra it</l>
+               <l>The Conſuls ſilent Orders for Retreat</l>
+               <l>Run through the Camp, and cover with the Night,</l>
+               <l>From <hi>Hippo,</hi> the diſhonour of their Flight.</l>
+            </lg>
+            <lg>
+               <l>The Moon with all her Starry train gave way,</l>
+               <l>To the Alternate Empire of the Day,</l>
+               <l>When to the Walls the People haſt in Arms</l>
+               <l>Ready to entertain thoſe fierce Alarms.</l>
+               <l>Which gaue the riſing Morn, a deeper Red,</l>
+               <l>And all the Furies with dire ſlaughter Fed</l>
+               <l>But now no Warlike Sounds invade their Ears,</l>
+               <l>Peace ſhines about, the Enſigns of their Fears</l>
+               <l>Are all remov'd, and what they there before</l>
+               <l>Had trembling view'd, they boldly now explore.</l>
+               <l>With buſie eyes and hands their Children ſhow</l>
+               <l>Each Quarter of the Camp, where every Foe</l>
+               <l>Of name his Tent had pitch'd, and, vainly, kind</l>
+               <l>Promiſe them ſpoils, of what was left behind.</l>
+               <l>No more confin'd, out at the Ports they run,</l>
+               <l>And, in their Sallies, what they late had done</l>
+               <l>With glory to their joyful friends repeat,</l>
+               <l>How here <hi>Phamaeas</hi> in a baſe Retreat,</l>
+               <l>A Libyan, from Libyan Enſigns fled,</l>
+               <l>And in the Roman Camp his hated Head</l>
+               <l>Secur'd. How there the ſtout <hi>Iſalces,</hi> while</l>
+               <l>His Friends retir'd to ſaftety, till a Pile</l>
+               <pb n="23" facs="tcp:100530:14"/>
+               <l>Struck through his heart, from an unerring hand,</l>
+               <l>The Victime of his Countrey, kept his ſtand;</l>
+               <l>Not <hi>Cocles,</hi> when the <hi>Tuſcan</hi> King purſu'd,<note n="(n)" place="bottom">
+                     <hi>Horatius Coccles,</hi> who gave a ſtand to the whole Ar<g ref="char:EOLhyphen"/>my of <hi>Porſenna,</hi> while the fliing <hi>Romans</hi> broke down the Bridge over <hi>Tyber</hi> behind him, which ſaved the City.</note>
+               </l>
+               <l>(Though happier in his Fate) more bravely ſtood</l>
+               <l>The memory of his Fall mix'd Joy with tears,</l>
+               <l>And thoughts of dangers paſt, reviv'd their fears.</l>
+               <l>The wiſe, though ſafe, are doubtful ſtill in War,</l>
+               <l>And think their dangers near, though ne'r ſo far.</l>
+               <l>Back to the Temples then, with Garlands crown'd,</l>
+               <l>They Paeans ſing, and ſtrew with flow'rs the ground.</l>
+               <l>The Prieſts their Offrings on the Altars lay,</l>
+               <l>And Vows for their Recover'd ſafety pay.</l>
+               <l>All joys of People, who by Heav'n are bleſs'd,</l>
+               <l>With unexpected Peace, are there expreſs'd.</l>
+               <l>As when his Veſſel charg'd with all the Wealth</l>
+               <l>The Eaſt affords for Pleaſure or for Health.</l>
+               <l>A Merchant in return by tempeſt toſt,</l>
+               <l>His Helm diſorder'd, Sails, and Riggings loſt;</l>
+               <l>While death and horror him ſurround, his prayer</l>
+               <l>Now undiſturb'd, and lengthen'd by Deſpair,</l>
+               <l>When beyond hopes, the Seas, and Angry Winds,</l>
+               <l>By ſome propitious god appeas'd, he finds,</l>
+               <l>And the deſired Shore attain'd, at laſt,</l>
+               <l>He values ſafety, by his dangers paſt,</l>
+               <l>Which to delight his Friends, are often told,</l>
+               <l>And from his former Fears, create him Bold.</l>
+            </lg>
+            <pb n="24" facs="tcp:100530:15"/>
+            <lg>
+               <l>But <hi>
+                     <g ref="char:V">Ʋ</g>tica,</hi> reſerv'd by Fate to be<note n="(o)" place="bottom">
+                     <hi>Utica</hi> ſituate in the ſame Bay with <hi>Carthage,</hi> and next to it in power, was the Receptacle of the <hi>Romans</hi> for the management of their Affairs in <hi>Libya,</hi> and after the de<g ref="char:EOLhyphen"/>ſtruction of <hi>Carthage</hi> was the Metropolis.</note>
+               </l>
+               <l>The laſt Retreat of Vanquiſh'd Liberty</l>
+               <l>(Since there, the<note n="(p)" place="bottom">After the defeat near <hi>Thapſus</hi> of <hi>Scipio, Cato</hi> (as the laſt General of the Pompeian party) commanded then in <hi>Utica,</hi> and finding himſelf unable to reſiſt <hi>Caeſar,</hi> (who marched towards him) in deſpair of a retreat from his Power, (to which all <hi>Africa</hi> did then ſubmit) ſlew him<g ref="char:EOLhyphen"/>ſelf, and from his death, and Command there, was called <hi>Uticenſis.</hi>
+                  </note> Senate's General muſt fall,</l>
+               <l>Whoſe envious Anceſtors ſo oft did call</l>
+               <l>For <hi>Byrſa</hi>'s Ruin) the Auſonian troops</l>
+               <l>Receives, and to Inglorious <hi>Faſces</hi> ſtoops.</l>
+               <l>Not conſcious then, that in ſucceeding time,</l>
+               <l>A Roman hand ſhould vindicate that Crime,</l>
+               <l>And <hi>Caeſar</hi> ſeem on<note n="(q)" place="bottom">
+                     <hi>Cato</hi> the Cenſor (Anceſtor to the former) who never gave his opinion in the Senate (after the ſecond <hi>Punique War</hi>) but he added, <hi>This is my Opinion, And that</hi> Carthage <hi>ſhould be deſtroyed.</hi> That he was envious of the glory of <hi>Scipio,</hi> who put <hi>Carthage</hi> into the power of the <hi>Romans,</hi> may be obſerved in all Story.</note> 
+                  <hi>Cato</hi>'s Name to take</l>
+               <l>Revenge, in <hi>
+                     <g ref="char:V">Ʋ</g>tica,</hi> for <hi>Carthage</hi>'s ſake;</l>
+               <l>Which Act, alone, could <hi>Juno</hi>'s Wrath appeaſe,</l>
+               <l>And in the Shades below, ſad <hi>Dido</hi> pleaſe.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="verse_account">
+            <pb n="25" facs="tcp:100530:15"/>
+            <head>AN ESSAY Upon the Third <hi>P<g ref="char:V">Ʋ</g>NIQ<g ref="char:V">Ʋ</g>E WAR.</hi> LIB. II.</head>
+            <lg>
+               <l>NOw<note n="(a)" place="bottom">The ill management of this war, under the conduct of the Conſul <hi>Manlius,</hi> much diſtracted the <hi>Romans,</hi> till <hi>Scipio Aemilianus,</hi> who had gain'd a great reputation (even among his Enemies) was choſen Conſul and chang<g ref="char:EOLhyphen"/>ed the face of affairs, and under him the War was fi<g ref="char:EOLhyphen"/>niſhed. <hi>Vid. Appian. Libyc.</hi>
+                  </note> with a thouſand Tongues, and thou<g ref="char:EOLhyphen"/>ſand Eyes,</l>
+               <l>Diſperſing Terrors, Fame from <hi>Libya</hi> flies.</l>
+               <l>And, is at <hi>Rome,</hi> as readily, receiv'd,</l>
+               <l>As Truth it ſelf, and eaſier, Far, believ'd.</l>
+               <l>Their long ſucceſs, crown'd, with ſo many years,</l>
+               <l>In <hi>Africk</hi> check'd, revives, and heightens fears:</l>
+               <pb n="26" facs="tcp:100530:16"/>
+               <l>As if the Vertue of the Roman Name,</l>
+               <l>Were, now, extinguiſh'd, or not ſtill the ſame,</l>
+               <l>No more the Fam'd <hi>Marcelli, Fabii,</hi> or</l>
+               <l>The <hi>Scipio</hi>'s and <hi>Pauli,</hi> great in War,</l>
+               <l>In <hi>Italy</hi> ſurvive. Luxurious Peace</l>
+               <l>Had made the Memory of their Deeds to ceaſe.</l>
+               <l>Their ſacred Images, alone, delare</l>
+               <l>Their Vertues, none their Imitators were.</l>
+               <l>It is enough th' Italian Youth enjoy</l>
+               <l>Their Wealth, acquir'd, with honour'd Wounds, and cloy</l>
+               <l>Their wanton appetites ſo, that even Fate</l>
+               <l>Seems, now, to change, 'gainſt the degenerate,</l>
+               <l>Who nothing of Themſelves, can, juſtly boaſt,</l>
+               <l>But their great Father's glories, which th'ave loſt.</l>
+            </lg>
+            <lg>
+               <l>Such, from <hi>Olympus</hi> Top, Eternal <hi>Jove</hi>
+               </l>
+               <l>
+                  <note n="(b)" place="bottom">
+                     <hi>Romulus</hi> and <hi>Remus</hi> deſcended from <hi>Mars.</hi>
+                  </note>The Race of <hi>Mars,</hi> and of the<note n="(c)" place="bottom">
+                     <hi>Julius Caeſar</hi> deſcended from <hi>Aeneas,</hi> the Son of <hi>Ve<g ref="char:EOLhyphen"/>nus</hi> and <hi>Anchiſes.</hi>
+                  </note> Queen of Love,</l>
+               <l>Beheld, and both the Deities arraigns,</l>
+               <l>In theſe mild words: <hi>What (Daughter) now remains</hi>
+               </l>
+               <l>
+                  <hi>To ruin thy great Iſſue, or</hi> (Mars) <hi>thine.</hi>
+               </l>
+               <l>
+                  <hi>If You, your Intereſt, fofar diſjoyn?</hi>
+               </l>
+               <l>
+                  <hi>You</hi> Cytherea <hi>may indulge to Love,</hi>
+               </l>
+               <l>
+                  <hi>Yet ſuffer that, He Warlike Arts improve.</hi>
+               </l>
+               <l>
+                  <hi>What will become of your</hi>
+                  <note n="(d)" place="bottom">The Son of <hi>Aeneas,</hi> from whom <hi>Julius Caeſar,</hi> whoſe Star appearing at Noon- day, while <hi>Auguſtus</hi> (his adop<g ref="char:EOLhyphen"/>ted Son) celebrated Games to his honour, he was deifi'd, firſt of the Emperours.</note> Iulus <hi>race?</hi>
+               </l>
+               <l>
+                  <hi>Where will They, who muſt this Celeſtial place</hi>
+               </l>
+               <l>
+                  <hi>Supply, be found? who muſt the Heavens with Stars</hi>
+               </l>
+               <l>
+                  <hi>Adorn, unleſs they, firſt, ſhall ſhine in Wars?</hi>
+               </l>
+               <pb n="27" facs="tcp:100530:16"/>
+               <l>
+                  <hi>See how near Heaven, bright</hi>
+                  <note n="(e)" place="bottom">The Temple of Vertue, and that of Honour, were ſo built one by the other; that they could not paſs to that of Honour, but through that of Vertue. It was firſt built by <hi>M. Marcellus</hi> (out of his Spoils of <hi>Sicily</hi>) near the <hi>Porta Capena,</hi> through which they alwayes entered in Triumph.</note> 
+                  <hi>Vertues Temple ſtands;</hi>
+               </l>
+               <l>
+                  <hi>And next Our Capitol, the Earth commands.</hi>
+               </l>
+               <l>
+                  <hi>Your Iſſue</hi> (Mars) <hi>must that High-way purſue,</hi>
+               </l>
+               <l>
+                  <hi>And though they keep</hi>
+                  <note n="(f)" place="bottom">
+                     <hi>Venus</hi> was honoured with ſeveral Names among the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> and with ſeveral Temples, but the firſt dedicated to Her at <hi>Rome</hi> was by <hi>Titus Tatius,</hi> in that part of the <hi>Forum,</hi> where the <hi>Romans</hi> and <hi>Sabines</hi> laid down their Arms and ſacrificed. <hi>Vid. Plin. lib. 15.</hi>
+                  </note> 
+                  <hi>her Temple, in their view,</hi>
+               </l>
+               <l>
+                  <hi>Yet on thoſe Altars firſt, their Victims lay,</hi>
+               </l>
+               <l>
+                  <hi>And then to Her, their leſſer Offrings pay.</hi>
+               </l>
+               <l>
+                  <hi>With which, be</hi>
+                  <note n="(g)" place="bottom">The Temple of <hi>Mars</hi> was very magnificently built near the <hi>Porta Capena</hi> in the High-way (called <hi>Via Appia</hi>) and ſo repaired (when decayed) and enlarged by <hi>Sylla</hi> the Dictator, that it ſtood upon an <hi>100</hi> Columns.</note> 
+                  <hi>you content, if more you claim,</hi>
+               </l>
+               <l>
+                  <hi>What was for Honour meant, will turn to ſhame,</hi>
+               </l>
+               <l>
+                  <hi>Bid then, that</hi> Mercury <hi>to Earth deſcend,</hi>
+               </l>
+               <l>
+                  <hi>And to laſcivious</hi> Rome <hi>this ſtrait commend.</hi>
+               </l>
+               <l>
+                  <hi>Tell her how weak, her Riot, and Exceſs,</hi>
+               </l>
+               <l>
+                  <hi>Have rendred Her; how much, She, now, is leſs</hi>
+               </l>
+               <l>
+                  <hi>Since She gave Ear to thoſe</hi> Circaean <hi>Charms,</hi>
+               </l>
+               <l>
+                  <hi>And, ſtood ſo deaf, to</hi> Libya<hi>'s alarms:</hi>
+               </l>
+               <l>
+                  <hi>And, that He may, more readily, diffuſe</hi>
+               </l>
+               <l>
+                  <hi>This Our Command, ſome Noble Heroe chuſe,</hi>
+               </l>
+               <l>
+                  <hi>Who ſtill preſerves the Honour of his Race,</hi>
+               </l>
+               <l>
+                  <hi>Nor will their Glory, by his Vice, deface,</hi>
+               </l>
+               <pb n="28" facs="tcp:100530:17"/>
+               <l>
+                  <note n="(*)" place="bottom">An Opinion cheriſhed by <hi>Scipio Africanus,</hi> that he was the Son of <hi>Jupiter. Vid. Sil. Ital. lib. 13.</hi>
+                  </note>
+                  <hi>If any ſuch</hi> Rome, <hi>yet, retains, he muſt</hi>
+               </l>
+               <l>
+                  <hi>From <g ref="char:V">Ʋ</g>s deſcend, the Reſt are loſt in luſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>At this Command, ſtrait the<note n="(*)" place="bottom">Mercury.</note> 
+                  <hi>Cyllenian</hi> God,</l>
+               <l>Wings both his Head, and Feet, aſſumes his Rod,</l>
+               <l>With which, He can the Pow'rs of Hell ſubdue,</l>
+               <l>Impriſon'd Shades relieve, make them review</l>
+               <l>Deſired Day: the reſtleſs Furies charme</l>
+               <l>To ſleep, and their dire Miniſters diſarme.</l>
+               <l>Then, ſuddenly, to Earth, He takes his flight,</l>
+               <l>And ſummons, from the boſome of the Night,</l>
+               <l>Her Troop of dreams, that fly, in various Shapes,</l>
+               <l>Through all the World, commit their ſeveral Rapes</l>
+               <l>On Humane Senſe. Some with dire Horror fill</l>
+               <l>The Fancy: Some the Stygian drops diſtill</l>
+               <l>Of black deſpair, into diſtracted Minds,</l>
+               <l>And where theſe fix, th' Afflicted hardly finds</l>
+               <l>Relief, awake. Others, more lightly, fly</l>
+               <l>Through all variety of thoughts, and die</l>
+               <l>As ſoon as born. Some kind and gentle move,</l>
+               <l>Off'ring ſoft pleaſures, and delights of Love.</l>
+               <l>All theſe, near Earth ſtill hov'ring, ſtrait the God</l>
+               <l>Diſmiſs'd, as uſeleſs, to their dark Abode;</l>
+               <l>And, from the numerous Throng, ſelected One</l>
+               <l>Of a Celeſtial Form, which waits Alone</l>
+               <l>On Souls, that ſtill abſtract from all that's vain,</l>
+               <l>None but divine Idea's entertain.</l>
+               <l>And when they wake, to what they dream'd aſpire,</l>
+               <l>And cheriſh in themſelves the Sacred Fire.</l>
+               <pb n="29" facs="tcp:100530:17"/>
+               <l>Not far from <hi>Rome,</hi> yet diſtant from the noiſe,</l>
+               <l>And tumult, that a Studious Mind deſtroys,</l>
+               <l>A Villa ſtands, in the Campanian Fields,</l>
+               <l>That, a Fair Image of <hi>Elyſium</hi> yields,</l>
+               <l>Where a brave Youth, of that<note n="(*)" place="bottom">
+                     <hi>The</hi> Scipio<hi>'s.</hi>
+                  </note> Illuſtrious Line,</l>
+               <l>To which, the Fates of <hi>Libya</hi> did reſigne</l>
+               <l>Their pow'r o'r <hi>Carthage,</hi> the great Acts revolv'd</l>
+               <l>Of Ages paſt, and with Himſelf reſolv'd</l>
+               <l>To imitate, at leaſt, if not exceed</l>
+               <l>His Anceſtors, and each Heroick Deed.</l>
+               <l>Hither the God conducts the Heav'nly Dream.</l>
+               <l>The Youth was ſtudious on that Noble Theam,</l>
+               <l>
+                  <note n="(h)" place="bottom">Plato <hi>in his</hi> Phaedo.</note>That Immortality to Souls aſſigns,</l>
+               <l>And Man unto the Gods, by Reaſon, joyns.</l>
+               <l>Soon as they here deſcend, th' <hi>Arcadian</hi> Wand</l>
+               <l>Sheds Sleep through all the Houſe. From <hi>Scipio</hi>'s hand</l>
+               <l>Strait Divine <hi>Plato</hi> fell, and while with ſwarms</l>
+               <l>Of thoughts, the Brain his buſie Fancy warms,</l>
+               <l>The Dream great <hi>Africanus</hi> Shape aſſumes;</l>
+               <l>Not ſuch, as when to ſhun ingrateful <hi>Rome</hi>'s</l>
+               <l>Impetuous Votes, He to <hi>Linternum</hi> came,</l>
+               <l>
+                  <note n="(i)" place="bottom">
+                     <hi>Scipio Africanus</hi> cauſing himſelf to be buried at <hi>Lin<g ref="char:EOLhyphen"/>ternum</hi> a ſmall Town in <hi>Campania,</hi> with this Inſcrip<g ref="char:EOLhyphen"/>tion, <hi>Ingrata Patria ne Oſſa quidem mea habebis,</hi> being perſecuted by a Faction, after his great Service to his Countrey.</note>And on his Tomb engrav'd their laſting Shame.</l>
+               <l>But like Him, when his Valiant Hand redeem'd</l>
+               <l>From Libyan Chains, the flatt'ring Tribes, and ſeem'd</l>
+               <pb n="30" facs="tcp:100530:18"/>
+               <l>A God, and, to the Capitol convey'd</l>
+               <l>
+                  <note n="(k)" place="bottom">It was the Cuſtom of the Triumpher, ſoon as he had diſmiſſed his Captives (at the Gate of the Capitol) ci<g ref="char:EOLhyphen"/>ther to death, or perpetual priſon, to advance into the Temple, and after his thanks paid (before the Statue of <hi>Jupiter</hi>) to all the gods, and a ſhort prayer for continu<g ref="char:EOLhyphen"/>ance of their favour, to offer his Lawrel, and depoſite it, in the Lap of <hi>Jupiter,</hi> or redeem it, with a Crown of Gold.</note>His Lawrelin the Thunderers boſome laid.</l>
+               <l>Such, and ſo Great He now appear'd, and while</l>
+               <l>The Youth, with horror trembled, with a ſmile</l>
+               <l>That promis'd ſafety, to a Starry Place,</l>
+               <l>(From whence, beneath Him, all of Humane Race</l>
+               <l>He might ſurvey, conducts Him) <hi>Hence,</hi> ſaid He,</l>
+               <l>
+                  <hi>The World, and thine own Fortune thou ſhalt ſee.</hi>
+               </l>
+               <l>
+                  <hi>Behold that City, which I firſt ſubdu'd,</hi>
+               </l>
+               <l>
+                  <hi>By which a bloody War is now renew'd;</hi>
+               </l>
+               <l>
+                  <hi>Were</hi> Rome <hi>as Vertuous now as She was then,</hi>
+               </l>
+               <l>Carthage <hi>could ne'r ſhake off her Yoke agen.</hi>
+               </l>
+               <l>
+                  <hi>Rebellion never dares her Arms diſplay,</hi>
+               </l>
+               <l>
+                  <hi>But when the Rulers Vertue doth decay.</hi>
+               </l>
+               <l>
+                  <hi>Thou ſhalt this Age redeem;</hi> Carthage <hi>by Thee</hi>
+               </l>
+               <l>
+                  <hi>Shall be o'rthrown, and Thou ſhalt honour'd be,</hi>
+               </l>
+               <l>
+                  <note n="(l)" place="bottom">Comming to <hi>Rome,</hi> as <hi>Candidate</hi> for the Aedileſhip, he was choſen Conſul, with applauſe of the People, and undertook the War of <hi>Carthage</hi> which he deſtroyed. He was Nephew to the great <hi>Africanus</hi> by <hi>Paulus Aemilius</hi> his Daughter, and by Adoption his Son. In his firſt Con<g ref="char:EOLhyphen"/>ſulſhip he had a Diſpenſation for being choſen before the Age allowed, and was employed as Legat, or Proconſul in all the places mentioned; but moſt famous (next his deſtruction of <hi>Carthage,</hi> for <hi>Numantia,</hi> in <hi>Spain</hi>) which he likewiſe utterly deſtroyed; being choſen Conſul in his abſence for that War. <hi>Vid. Liv. Appian.</hi>
+                  </note>
+                  <hi>With envi'd Titles, heretofore by none</hi>
+               </l>
+               <l>
+                  <hi>Deſerv'd, nor due, but unto <g ref="char:V">Ʋ</g>s alone.</hi>
+               </l>
+               <pb n="31" facs="tcp:100530:18"/>
+               <l>
+                  <hi>Yet other Honours Thee attend; Thou</hi> Nile</l>
+               <l>
+                  <hi>Thou</hi> Syria, Aſia, Greece, <hi>ſhalt rule, and while</hi>
+               </l>
+               <l>
+                  <hi>Fame of a dangerous War, with terror fills</hi>
+               </l>
+               <l>
+                  <hi>All</hi> Latium, <hi>to diuert impending Ills,</hi>
+               </l>
+               <l>
+                  <hi>To Thee, when abſent,</hi> Rome <hi>ſhall recommend</hi>
+               </l>
+               <l>
+                  <hi>Her Safety, and her unſought</hi> Faſces <hi>ſend.</hi>
+               </l>
+               <l>
+                  <hi>Then</hi> Spain <hi>ſhall tremble, and, the vainly proud</hi>
+               </l>
+               <l>Numantia, <hi>as with Thunder from a Cloud,</hi>
+               </l>
+               <l>
+                  <hi>Daſh'd by thine Arms to ruin, ſhall proclaim</hi>
+               </l>
+               <l>
+                  <hi>Titles as great as</hi> Carthage <hi>to thy Name.</hi>
+               </l>
+               <l>
+                  <note n="(m)" place="bottom">This War of <hi>Numantia</hi> laſted <hi>13</hi> years, in which ſe<g ref="char:EOLhyphen"/>veral great Captains, had been employed; among others <hi>Tiberius Gracchus</hi> (whoſe Siſter he had married) who made a Peace with the <hi>Numantines,</hi> ſo diſhonourable, that the <hi>Romans</hi> afterward broke it. But <hi>Scipio</hi> under<g ref="char:EOLhyphen"/>taking the War, ſo cloſely beſieged them, for ſome time, that to the envy of all other before him, he forced them in one day to burn themſelves with all their Wealth toge<g ref="char:EOLhyphen"/>ther; not one remaining, ſaith <hi>Florus</hi> and <hi>Juſtine,</hi> to wear Chains in his Triumph; though <hi>Appian</hi> other<g ref="char:EOLhyphen"/>wiſe.</note>
+                  <hi>Thy Trophies then thou ſhalt in Triumph bring</hi>
+               </l>
+               <l>
+                  <hi>To</hi> Jove, <hi>and</hi> Rome <hi>ſhall Joyful Paeans ſing.</hi>
+               </l>
+               <l>
+                  <hi>But Envy will on all thou doſt attend,</hi>
+               </l>
+               <l>
+                  <hi>Envy, that never doth the Good commend.</hi>
+               </l>
+               <l>
+                  <hi>She thy bright Glories, by thy</hi>
+                  <note n="(n)" place="bottom">Thoſe who moſt envied him were the <hi>Gracchi</hi> his own Kindred, whom he with <hi>Scipio Naſica</hi> ſo oppoſed in their Popular Faction, that one of the <hi>Gracchi</hi> was ſlain in the Capitol; and Our <hi>Scipio</hi> reſolving to harangue the People the next day, his Wife <hi>Sempronia</hi> (as believed) poiſon'd him, in revenge, and he was found dead in his Bed, when the Commonwealth, was ſo diſtracted, that it was conceived, nothing but his being Dictator could ſettle it. <hi>Vid. Cicer. Somn. Scipion.</hi>
+                  </note> 
+                  <hi>Friends ſhall wound:</hi>
+               </l>
+               <l>
+                  <hi>Yet perſevere; Thou ſhalt at length, be crown'd</hi>
+               </l>
+               <pb n="32" facs="tcp:100530:19"/>
+               <l>
+                  <hi>With all that</hi> Rome <hi>can give, nor ſafe will She</hi>
+               </l>
+               <l>
+                  <hi>Her ſelf eſteem, till thou Dictator be.</hi>
+               </l>
+               <l>
+                  <hi>This is thy way to Heav'n, who deviates from</hi>
+               </l>
+               <l>
+                  <hi>This path, can ne'r to theſe bleſt Manſions come.</hi>
+               </l>
+               <l>
+                  <hi>For know that God, who did create this Place,</hi>
+               </l>
+               <l>
+                  <hi>Reſerves it, only, for that Glorious Race,</hi>
+               </l>
+               <l>
+                  <note n="*" place="bottom">The praeexiſtence of Souls aſſerted by <hi>Plato</hi> in his <hi>Phaedo</hi> and <hi>Timaeus,</hi> and <hi>Cicero</hi> in <hi>Somn. Scip.</hi>
+                  </note>
+                  <hi>Whoſe Souls from hence deſcending, while they are</hi>
+               </l>
+               <l>
+                  <hi>Confin'd to Bodies, which, on Earth, they wear;</hi>
+               </l>
+               <l>
+                  <hi>Love Vertue, and their Countrey's Good purſue:</hi>
+               </l>
+               <l>
+                  <hi>Its Wealth and Power augment. Themſelves ſubdue,</hi>
+               </l>
+               <l>
+                  <hi>And, ſo the Fury of their Luſts reſtrain,</hi>
+               </l>
+               <l>
+                  <hi>That, We, with Joy, receive Them here again.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This ſaid, the God, and Dream, at once, forſakes</l>
+               <l>The Youth, amaz'd, who, at the inſtant, wakes,</l>
+               <l>And ſeems ſtill to behold, with fixed eyes,</l>
+               <l>The fleeting Shade, to whom, he, thus, replyes:</l>
+               <l>
+                  <hi>Whether Thou art a Deity, or Shade,</hi>
+               </l>
+               <l>
+                  <hi>Or Dream, that thus do'ſt, now, my Soul invade,</hi>
+               </l>
+               <l>
+                  <hi>Thine Image I'lretain, and ſo purſue,</hi>
+               </l>
+               <l>
+                  <hi>That, though it Fiction ſeem, it ſhall be true.</hi>
+               </l>
+               <l>
+                  <hi>Whether it be the Crime, or Common Fate</hi>
+               </l>
+               <l>
+                  <hi>Of</hi> Rome, <hi>ſo vilely to degenerate,</hi>
+               </l>
+               <l>
+                  <hi>From what She was; to ſcern Immortal Fame,</hi>
+               </l>
+               <l>
+                  <hi>And Future Bliſs, for preſent Luſts, diſclaim;</hi>
+               </l>
+               <l>
+                  <hi>My ſingle Vertue, ſhall her Name redeem,</hi>
+               </l>
+               <l>
+                  <hi>Her Honour raiſe, revive her lost eſteem.</hi>
+               </l>
+               <l>
+                  <hi>The Actions of Thoſe, of Noble Blood,</hi>
+               </l>
+               <l>
+                  <hi>Make all beneath Them, either bad, or good.</hi>
+               </l>
+               <l>
+                  <hi>Example rules the World; and all that She</hi>
+               </l>
+               <l>
+                  <hi>Should imitate,</hi> Rome <hi>ſhall behold in Me.</hi>
+               </l>
+               <pb n="33" facs="tcp:100530:19"/>
+               <l>
+                  <hi>Aſſiſt me then thou God! if ſuch Thou art!</hi>
+               </l>
+               <l>
+                  <hi>Or</hi> Africanus <hi>Shade! to Me impart</hi>
+               </l>
+               <l>
+                  <hi>All that was thine. I ſhall deſire no more</hi>
+               </l>
+               <l>
+                  <hi>To make</hi> Rome <hi>Greater, than She was before.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As this He ſpake, the Night to Hell retir'd,</l>
+               <l>The Morn aroſe. He as from Heav'n inſpir'd,</l>
+               <l>To <hi>Rome</hi> ſtrait poſts, in's Mind revolving all</l>
+               <l>The Dictates of his Dream: the Capitol</l>
+               <l>Firſt in his proſpect, thither He repairs,</l>
+               <l>And, while He <hi>Jove</hi> conſults, of all his cares,</l>
+               <l>The Genius of <hi>Rome</hi> the Senat fills</l>
+               <l>With Voices, that enumerate the Ills</l>
+               <l>That by their former Generals were brought</l>
+               <l>On Roman Arms, while They in <hi>Libya</hi> fought,</l>
+               <l>Till <hi>Africanus</hi> undertook the reins</l>
+               <l>Of War, and <hi>Carthage</hi> brought to <hi>Rome</hi> in chains:</l>
+               <l>This made Her Miſtriſs of the World, but now</l>
+               <l>Since Fate would not the ſame Succeſs allow</l>
+               <l>To other Chiefs, and <hi>
+                     <g ref="char:V">Ʋ</g>tica</hi> alone</l>
+               <l>The Roman name, as Soveraign, wou'd own.</l>
+               <l>Heav'n had no other Hand reſerv'd t' effice</l>
+               <l>Thoſe Stains, but one of that Illuſtrious Race.</l>
+            </lg>
+            <lg>
+               <l>With that, bold Factions the Court divide</l>
+               <l>Some for themſelves, ſome for their friends employ'd</l>
+               <l>Their tedious Harangues, and, ſome who ne'r</l>
+               <l>Had merited in Arms, more fierce appear</l>
+               <l>To undertake the War, and promiſe more</l>
+               <l>Then thoſe, who had been Conquerours before.</l>
+            </lg>
+            <lg>
+               <l>But, while they thus contend, like Riſing Day</l>
+               <l>Diſperſing Foggs, and chaſing Clouds away,</l>
+               <l>Young <hi>Scipio</hi> enters. The Majeſtick Grace</l>
+               <l>With which He mov'd, his ſtout and manly Face</l>
+               <l>Where all the Lines of ſober Courage might</l>
+               <l>Be ſeen, and promis'd Victory in fight.</l>
+               <pb n="34" facs="tcp:100530:20"/>
+               <l>The Eyes of all th' Aſſembly on him drew,</l>
+               <l>Who now, no more the fierce debate purſue:</l>
+               <l>But, as when firſt to the aſſembled Greeks,</l>
+               <l>God-like <hi>Achilles,</hi> did appear (his Cheeks</l>
+               <l>The newly cloath'd with down) deep ſilence through</l>
+               <l>The Camp was ſpread; while all admiring view</l>
+               <l>The vigor of his Eyes, and Limbs, his broad</l>
+               <l>And lofty Shoulders, like the <hi>Oetean</hi> god</l>
+               <l>In all. Him all the Captains ſtrait commend,</l>
+               <l>As the moſt fit with <hi>Hector</hi> to contend;</l>
+               <l>Whoſe Fall alone muſt ruin hapleſs <hi>Troy.</hi>
+               </l>
+               <l>So <hi>Scipio,</hi> with univerſal Joy</l>
+               <l>The Senate entertain, and, by their choice,</l>
+               <l>Raiſe acclamations of the Publick Voice,</l>
+               <l>Which the Conſent of Heav'n, doth ſtrait approve;</l>
+               <l>While from his Shining Arm, by Thunder, <hi>Jove</hi>
+               </l>
+               <l>Serene's the Capitol; with dreadful ſtorms</l>
+               <l>Makes <hi>Libya</hi> tremble, and with ſtrange alarms</l>
+               <l>The <hi>Carthaginian</hi> Walls and Temples ſhakes,</l>
+               <l>So that even <hi>Dido,</hi> in her Mable, quakes.</l>
+               <l>No place from Terror's free, the neighb'ring Sea</l>
+               <l>Swells, and with Waves invades, and drowns the Day.</l>
+               <l>Night intercepts the Hours, and fills the Sky</l>
+               <l>With Meteors, that in various Figures fly</l>
+               <l>Towards <hi>Saturnus</hi> ruin'd Fane, and, there</l>
+               <l>O'r his neglected Altars diſappear.</l>
+               <l>Religion then (as Fear before) their Minds</l>
+               <l>Poſſeſs'd, and its Effects moſt bloody finds.</l>
+               <l>For now <hi>Barcinna,</hi> whoſe Ambition fir'd</l>
+               <l>Her Husband firſt, and firſt the War inſpir'd</l>
+               <l>With all the Cunning Arts, that do infect</l>
+               <l>Her Sex, or can their Minds to Ill direct,</l>
+               <l>Th' aſſembled Matrons (like the <hi>Theban</hi> Dames</l>
+               <l>At Trieterick Feaſts) with zeal inflames,</l>
+               <pb n="35" facs="tcp:100530:20"/>
+               <l>Thoſe Ominous Portents on <hi>Italy</hi>
+               </l>
+               <l>To turn, and <hi>Carthage</hi> ſo from ruin free.</l>
+               <l>
+                  <hi>Behold</hi> (ſaid ſhe) <hi>how the</hi>
+                  <note n="(*)" place="bottom">
+                     <hi>Saturn,</hi> who when he fled from his Son <hi>Jupiter,</hi> lay bid in <hi>Italy,</hi> and denominated the Countrey.</note> Auſonian god</l>
+               <l>
+                  <hi>You ſummons to his long-deſtroy'd Abode!</hi>
+               </l>
+               <l>
+                  <hi>To memory recall, what dire effects</hi>
+               </l>
+               <l>
+                  <note n="(o)" place="bottom">It was the Cuſtom of the <hi>Carthaginians</hi> when in di<g ref="char:EOLhyphen"/>ſtreſs, to make theſe Barbarous Oblations to <hi>Saturn;</hi>as when <hi>Gelon</hi> the <hi>Sicilian</hi> overthrew <hi>Amilear</hi> with ſlaughter of <hi>150000 Carthaginians,</hi> which conſtrained them to beg Peace; and then when <hi>Agathocles</hi> ſo cruelly haraſſed and ſpoiled their Countrey, that little was left to Them, beſides their City, which <hi>Barcinna</hi> attributes to the Neglect of thoſe Sacrifices of the Nobleſt Chil<g ref="char:EOLhyphen"/>dren offer'd by their Predeceſſors to the number of <hi>200</hi> at a time: after which their City by degrees recover'd. <hi>Vid. Diodor. Sicul. lib. 20. Herodot. lib. 7. c. 153.</hi>
+                  </note>Sicilian <hi>Armies, once, for ſuch neglects,</hi>
+               </l>
+               <l>
+                  <hi>On</hi> Africk <hi>had, until the god theſe Rites</hi>
+               </l>
+               <l>
+                  <hi>Receiv'd, to which He now again invites.</hi>
+               </l>
+               <l>This ſaid, to th' Senate (whom a Pannick Dread</l>
+               <l>Before had call'd) She (like <hi>Agaue</hi>) led</l>
+               <l>Her Frantick Troop. There with redoubled ſtrokes</l>
+               <l>Her Breſt invades, and with wild looks invokes</l>
+               <l>The cruel god! then to the Fathers thus</l>
+               <l>Directs her Speech. <hi>If, yet, theſe Walls, and <g ref="char:V">Ʋ</g>s</hi>
+               </l>
+               <l>
+                  <hi>You will ſecure, if you will expiate</hi>
+               </l>
+               <l>
+                  <hi>Thoſe Crimes, which theſe dire prodigies create,</hi>
+               </l>
+               <l>
+                  <hi>Give to the gods their due; think not your Arms</hi>
+               </l>
+               <l>
+                  <hi>Shall proſper, while a Fooliſh Pity charms</hi>
+               </l>
+               <l>
+                  <hi>Religion thus, and you thoſe Rites forbear</hi>
+               </l>
+               <l>
+                  <hi>Which to Our Fathers ſo propitious were.</hi>
+               </l>
+               <l>
+                  <hi>Twice by</hi> Sicilian <hi>Bands, hath</hi> Libya <hi>ſeem'd</hi>
+               </l>
+               <l>
+                  <hi>T' expire, as oft by this great god redeem'd:</hi>
+               </l>
+               <pb n="36" facs="tcp:100530:21"/>
+               <l>
+                  <hi>Nor had the</hi> Roman <hi>Arms ſo far prevail'd,</hi>
+               </l>
+               <l>
+                  <hi>Had you in priſtine Piety not fail'd.</hi>
+               </l>
+               <l>
+                  <hi>If We are willing that you ſhould exact</hi>
+               </l>
+               <l>
+                  <hi>Theſe Victims: We, whoſe Bowels have been wrackt</hi>
+               </l>
+               <l>
+                  <hi>To bring them forth, why ſhould you fondly love</hi>
+               </l>
+               <l>
+                  <hi>To hugge thoſe Children, may your Ruin prove?</hi>
+               </l>
+               <l>
+                  <hi>Or if your Conſciences too tender are</hi>
+               </l>
+               <l>
+                  <hi>To ſee them bleed, why d'ye purſue the War?</hi>
+               </l>
+               <l>
+                  <hi>Miſtaken Piety! What you to Heav'n</hi>
+               </l>
+               <l>
+                  <hi>Deny, will be to</hi> Latium <hi>Triumphs giv'n.</hi>
+               </l>
+               <l>This ſaid, the Place, driv'n by Fanatick zeal,</l>
+               <l>She quits, and boldly doth to Heaven appeal.</l>
+               <l>Deep ſilence ſeiz'd the Senate, who amaz'd</l>
+               <l>At what ſhe ſaid, upon each other gaz'd.</l>
+               <l>
+                  <note n="(p)" place="bottom">This <hi>Haſdrubal</hi> was <hi>Guluſſa</hi>'s Siſters Son, whom the other <hi>Haſdrubal,</hi> ſuſpecting to hold intelligence with his Uncle, took occaſion to kill in the Senate, with ſome piece of one of the Seats. <hi>Vid. Appian. de Libyc.</hi>
+                  </note>At length young <hi>Haſdrubal; If it become</hi>
+               </l>
+               <l>
+                  <hi>Your Wiſdom (Fathers) to be rul'd at home,</hi>
+               </l>
+               <l>
+                  <hi>By this weak Sex, 'tis time that you withdraw</hi>
+               </l>
+               <l>
+                  <hi>Your Armies from the Field, and take the Law</hi>
+               </l>
+               <l>
+                  <hi>From Men</hi>
+                  <note n="(*)" place="bottom">
+                     <hi>The</hi> Romans.</note> 
+                  <hi>whoſe Valour hath the World ſubdu'd;</hi>
+               </l>
+               <l>
+                  <hi>For what is now by theſe deſir'd, ev'n rude</hi>
+               </l>
+               <l>
+                  <hi>And barbarous Nations have exploded long,</hi>
+               </l>
+               <l>
+                  <hi>And when you ſhall ſuch Rites perform, you wrong</hi>
+               </l>
+               <l>
+                  <hi>The gods, who now are better underſtood:</hi>
+               </l>
+               <l>
+                  <hi>They, kind, all Sacrifice of Humane Blood</hi>
+               </l>
+               <l>
+                  <hi>Abhor: We 'ave ſtore of Flocks and Heards, with theſe,</hi>
+               </l>
+               <l>
+                  <hi>Or pretious Gums, the Angry Gods appeaſe:</hi>
+               </l>
+               <l>
+                  <hi>For if your Sons on theſe dire Altars bleed,</hi>
+               </l>
+               <l>
+                  <hi>Who ſhall preſerve your Temples? who ſucceed</hi>
+               </l>
+               <pb n="37" facs="tcp:100530:21"/>
+               <l>
+                  <hi>In Arms? who ſhall the</hi> Libyan <hi>Name defend.</hi>
+               </l>
+               <l>
+                  <hi>Or Bounds maintain, for which you now contend.</hi>
+               </l>
+               <l>
+                  <hi>And though</hi> Barcinna <hi>may our long neglect</hi>
+               </l>
+               <l>
+                  <hi>Accuſe, as if the Gods all elſe reject</hi>
+               </l>
+               <l>
+                  <hi>That we ſhall do, think how great things, how high</hi>
+               </l>
+               <l>
+                  <note n="(*)" place="bottom">Vid. Sil. Ital. lib. 4.</note>
+                  <hi>Brave</hi> Hannibal <hi>perform'd, who did deny</hi>
+               </l>
+               <l>
+                  <hi>The ſame. What then her</hi> Haſdrubal <hi>hath done,</hi>
+               </l>
+               <l>
+                  <hi>Since, to inaugurate his Command, their Son</hi>
+               </l>
+               <l>
+                  <hi>They ſacrific'd.</hi> As this he ſpake, ſtrait all</l>
+               <l>Their Eyes reflect, on th' Elder <hi>Haſdrubal,</hi>
+               </l>
+               <l>Who near him ſate, and, as himſelf was nam'd</l>
+               <l>(His rage already at his Speech enflam'd)</l>
+               <l>Snatch'd up a mighty Beam, and ſtrait his Brains</l>
+               <l>Daſh'd out, and with his Blood the Senate ſtains.</l>
+               <l>
+                  <hi>Is't not enough; that thus</hi> Guluſſa's <hi>ſpy</hi>
+               </l>
+               <l>
+                  <hi>Oppoſe our Rites, but He muſt all decry</hi>
+               </l>
+               <l>
+                  <hi>That I have done</hi> (ſaid He) <hi>I, who (you know)</hi>
+               </l>
+               <l>
+                  <hi>So lately have repell'd th' inſulting Foe;</hi>
+               </l>
+               <l>
+                  <note n="(q)" place="bottom">After the defeat given by <hi>Haſdrubal</hi> to the Conſul <hi>Manlius,</hi> the <hi>Romans</hi> kept themſelves within <hi>Utica,</hi> till the Arrival of <hi>Scipio.</hi>
+                  </note>
+                  <hi>While</hi> Utica. <hi>alone, the poor Remains,</hi>
+               </l>
+               <l>
+                  <hi>In hatred to our</hi> Carthage, <hi>entertains,</hi>
+               </l>
+               <l>
+                  <hi>And you with ſilence (while his Crime doth call</hi>
+               </l>
+               <l>
+                  <hi>Or for the Croſs, or ſome worſe torture) all</hi>
+               </l>
+               <l>
+                  <hi>Approve! 'tis time</hi> (with that he ſpurns his Face)</l>
+               <l>
+                  <hi>That now I leave him to you, and this place.</hi>
+               </l>
+               <l>This ſaid, he ſtrait retires. A ſudden Dread</l>
+               <l>Of his revenge, through the Aſſembly ſpread,</l>
+               <l>They ſoon diſſolve. Confuſion through the Streets</l>
+               <l>Runs like <hi>Erinnys,</hi> ſeizeth all ſhe meets,</l>
+               <pb n="38" facs="tcp:100530:22"/>
+               <l>And their diſtracted Minds with terror fills!</l>
+               <l>Some leaſt a Civil Rage (the worſt of Ills)</l>
+               <l>Might the divided City open lay</l>
+               <l>To th' neighb'ring Foe, ſome leaſt they ſhould betray</l>
+               <l>Their Liberty to One, who too elate</l>
+               <l>With his Command, durſt, in a free debate,</l>
+               <l>With noble Blood, a ſacred Council ſtaine;</l>
+               <l>And, raſhly, what was Holy held, profane.</l>
+            </lg>
+            <lg>
+               <l>But with the day, their fears increaſt, while they</l>
+               <l>A Fleet (the Burthen of the <hi>Libyan</hi> Sea)</l>
+               <l>Beheld, where <hi>Scipio,</hi> as He approach'd the Rode,</l>
+               <l>Offer'd warm Entrails to th' Indulgent god;</l>
+               <l>Who now with Him conſpir'd, and drove before</l>
+               <l>The floating Sacrifice, to ſeize the Shore.</l>
+               <l>From his Pretorian Ship the General views,</l>
+               <l>And to the reſt the joyful <hi>Omen</hi> ſhews.</l>
+               <l>Loud Clamors then o'r all the Ocean ring,</l>
+               <l>They ply their Oars to Land, and Paeans ſing.</l>
+               <l>This to the Walls the City ſtrait invites,</l>
+               <l>And all againſt the Common Foe unites,</l>
+               <l>None are exempt from Arms, each Sex, and Age,</l>
+               <l>For Univerſal Liberty engage.</l>
+            </lg>
+            <lg>
+               <l>Now to the Shore the Navy joyns, on Land</l>
+               <l>Brave <hi>Scipio</hi> leaps, and ſeizing in his hand</l>
+               <l>The barren Earth; <hi>Thus in the name of</hi> Rome</l>
+               <l>
+                  <hi>And all her gods, do I</hi> (ſaid He) <hi>reſume</hi>
+               </l>
+               <l>
+                  <hi>What</hi> Africanus <hi>did o'r</hi> Carthage <hi>gain.</hi>
+               </l>
+               <l>
+                  <hi>No more ſhall She with Perjuries profane</hi>
+               </l>
+               <l>
+                  <hi>Thoſe Altars, where She due Obedience ſwore.</hi>
+               </l>
+               <l>With that He calls the Army all aſhore,</l>
+               <l>Their Courage, makes them haſty to obey,</l>
+               <l>And ſome precipitates into the Sea.</l>
+               <l>But all, at length, the Field, in Order, crown,</l>
+               <l>And ſhew their threatning Eagles to the Town.</l>
+               <pb n="39" facs="tcp:100530:22"/>
+               <l>As thus a while, expecting the Command</l>
+               <l>T'advance againſt the Walls, they ſilent ſtand,</l>
+               <l>Fierce <hi>Haſdrubal</hi> from an adjoyning Wood</l>
+               <l>That ſacred from <hi>Eliza</hi>'s Time had ſtood,</l>
+               <l>With his <hi>Mauruſian</hi> Troops (like ſudden rain</l>
+               <l>From Hills ſwell'd to a Torrent) fills the Plain,</l>
+               <l>And ſtrikes with barbarous Shouts the Marble Sky.</l>
+               <l>With which the City from the Walls comply,</l>
+               <l>And the ſtill ſilent Roman to the Fight,</l>
+               <l>Vainly exciting their ſad Fate, invite.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Scipio,</hi> whom nothing could provoke</l>
+               <l>To any thing was raſh, the Fury broke</l>
+               <l>Of his Impatient Bands, with theſe few words:</l>
+               <l>
+                  <hi>Reſerve (Companions) your Victorious Swords,</hi>
+               </l>
+               <l>
+                  <hi>For ſuch a Foe as will with Courage flight,</hi>
+               </l>
+               <l>
+                  <hi>Not ſuch as theſe, who in their ſpeedy flight,</hi>
+               </l>
+               <l>
+                  <hi>Or thoſe thick Woods, where they protected are</hi>
+               </l>
+               <l>
+                  <hi>From your aſſault, ſeek to maintain the War.</hi>
+               </l>
+               <l>
+                  <hi>As you advance, they will retire, they know,</hi>
+               </l>
+               <l>
+                  <hi>'Tis not a</hi> Manlitis <hi>now, but</hi> Scipio,</l>
+               <l>
+                  <hi>Who leads you on; that now, like Souldiers you,</hi>
+               </l>
+               <l>
+                  <note n="(r)" place="bottom">The <hi>Roman</hi> Army under <hi>Manlius</hi> (ſaith <hi>Appian</hi>) was ſo looſe in their Diſcipline in <hi>Africk,</hi> that they lived ra<g ref="char:EOLhyphen"/>ther like Robbers than Souldiers, and were alwayes beaten; till <hi>Scipio,</hi> reſtoring the Ancient Diſcipline, made them Conquerors.</note>
+                  <hi>And not like Robbers, will the War purſue.</hi>
+               </l>
+               <l>
+                  <hi>Then take your Piles and Axes in your hands,</hi>
+               </l>
+               <l>
+                  <hi>Poſſeſs that ground, where now the</hi> Libyan <hi>ſtands;</hi>
+               </l>
+               <l>
+                  <hi>None there will dare to ſee a</hi> Romans <hi>Face:</hi>
+               </l>
+               <l>
+                  <hi>And, as you them, like Beaſts, to Covert chace,</hi>
+               </l>
+               <l>
+                  <hi>The Wood, before you, fell, and ſtill purſue,</hi>
+               </l>
+               <l>
+                  <hi>Till</hi> Carthage <hi>ſhall ſtand naked in your view.</hi>
+               </l>
+            </lg>
+            <pb n="40" facs="tcp:100530:23"/>
+            <lg>
+               <l>This ſaid, with cheerful ſhowts, they all advance,</l>
+               <l>And as th' approach the Enemy, his Lance</l>
+               <l>Firſt <hi>Scipio</hi> threw, which through <hi>Himilco</hi>'s Head,</l>
+               <l>(Their Standard-Bearer) pierc'd, and ſtruck him dead:</l>
+               <l>The Enſigne, with his Body fell, and ſtrait,</l>
+               <l>As if on Him, Alone, the Common Fate</l>
+               <l>Of all the Army did depend, they fly.</l>
+               <l>With that thick Clouds of Piles obſcure the Sky</l>
+               <l>And fall upon their backs; while to the Wood.</l>
+               <l>They, routed, haſt, and various Tracts of Blood,</l>
+               <l>Detect their flight; the <hi>Romans</hi> ſtill purſue</l>
+               <l>The Chace, as Hunters, having loſt the view,</l>
+               <l>Follow the Slatt, till in ſome open Plain,</l>
+               <l>From Covertforc'd, the Stagge imboſt, is ſlain.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Libyans</hi> thus diſpers'd, their Axes all</l>
+               <l>Employ, and ſtrait tall Pines and Cedars fall,</l>
+               <l>With aged Oakes, whoſe moſſy branches wore</l>
+               <l>The Shields of ſeveral Nations, who that Shore</l>
+               <l>Had fatal found: Whether they wrack'd had been</l>
+               <l>Before they did on Land, the War begin,</l>
+               <l>While the perfidious Syrts, aſhore had caſt</l>
+               <l>Their Ruins, to be there, as Trophies plac'd:</l>
+               <l>Or that they had their way through <hi>Libya</hi> fought,</l>
+               <l>And thither ſpoils of other Cities brought;</l>
+               <l>To boaſt their Victories, while <hi>Carthage</hi> ſtood</l>
+               <l>Safe, in her Walls, alone, and ſacred Wood;</l>
+               <l>Where She, at length, the Enemy ſubdu'd,</l>
+               <l>And, oft, with Joy, as in a Temple, view'd</l>
+               <l>Thoſe boaſted Monuments, that now appear</l>
+               <l>To give new Matter of Revenge, and Fear.</l>
+            </lg>
+            <lg>
+               <l>For Fate, to haſten on what ſhe deſign'd,</l>
+               <l>Calls from <hi>Atlantick</hi> Hills, a ſudden Wind</l>
+               <l>T'aſſiſt the Roman Arms, and ſo conſpires,</l>
+               <l>To eaſe their Toils. A Pine then <hi>Scipio</hi> fires,</l>
+               <pb n="41" facs="tcp:100530:23"/>
+               <l>Whoſe unctuous, and impetuous Flame ſoon ſpreads</l>
+               <l>It ſelf, through all the Woods, the talleſt Heads</l>
+               <l>Of Cedars, Oaks, and Beeches it invades,</l>
+               <l>And turns to Aſhes the delightful Shades;</l>
+               <l>Where Nymphs did, ſince the birth of time, reſort,</l>
+               <l>And with the wanton Faunes and Satyrs ſport.</l>
+               <l>Their Ancient Abodes they now forſake,</l>
+               <l>And with their dreadful lamentations wake</l>
+               <l>The ſalvage Beaſts, that in their Dens ſtill ſlept;</l>
+               <l>Till rouz'd with ſudden noiſe, ſtrait forth they leapt:</l>
+               <l>But round beſieg'd with flames, ſoon back retir'd,</l>
+               <l>And roaring in their bloody Beds expir'd,</l>
+               <l>Like a rough ſea, the ſmoak to Heaven aſcends</l>
+               <l>And over all the Town, it ſelf extends</l>
+               <l>In Stygian Waves; the Walls, and Towrs, in Clouds</l>
+               <l>Are loſt, while <hi>Scipio</hi> his Eagles ſhrowds</l>
+               <l>Under this ruin, and on <hi>Megarian</hi> Walls</l>
+               <l>With his whole force, like a rude Tempeſt, falls.</l>
+               <l>The Place, Religion had with ſtrength indu'd,</l>
+               <l>
+                  <note n="(s)" place="bottom">This <hi>Amilcar</hi> commanding in <hi>Sicily,</hi> while his Army was engaged in fight, with-drew himſelf, either deſpair<g ref="char:EOLhyphen"/>ing of Victory, or ſuperſtitious to obtain it by Sacrifice; but being never after ſeen, his Army being Conquerors, entertained an Opinion of his Sanctity, and built a Tem<g ref="char:EOLhyphen"/>ple, and honoured him with Sacrifice. <hi>Vid. Herodot. in Polymn.</hi>
+                  </note>And in</l>
+               <l>
+                  <hi>Amilcar</hi>'s Temple oft renew'd</l>
+               <l>Their ſuperſtitious Rites, ſince He in fight</l>
+               <l>Retir'd to ſacrifice, and from their ſight</l>
+               <l>Vaniſh'd to Heav'n. Here nothing could retard</l>
+               <l>The progreſs of their Arms, but the reward</l>
+               <l>Of Valour (wealthy ſpoils) which they divide</l>
+               <l>In haſt, and vanquiſh'd Deities deride.</l>
+               <pb n="42" facs="tcp:100530:24"/>
+               <l>
+                  <note n="(t)" place="bottom">This Image of <hi>Apollo</hi> (of pure Gold, and very large) the <hi>Roman</hi> Souldiers took and divided; which Sacri<g ref="char:EOLhyphen"/>ledge <hi>Scipio</hi> (after <hi>Carthage</hi> was taken) puniſhed, by refuſing thoſe that were guilty of it, to have any ſhare in the ſpoil of the City. <hi>Appian.</hi>
+                  </note>Here not <hi>Apollo</hi> did himſelf protect.</l>
+               <l>But ſeem'd his Golden Image to neglect;</l>
+               <l>While ſome his Bow, his Shafts, and Quiver ſhare,</l>
+               <l>Others his Head divide, and ſhining Hair,</l>
+               <l>And then to other parts as rich deſcend,</l>
+               <l>And who ſhall moſt deſpoil the God contend.</l>
+               <l>All ſenſe of Piety in deſires of Gaine</l>
+               <l>Is loſt, and Avarice doth all profane.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Scipio,</hi> like <hi>Janus</hi> ſeveral wayes</l>
+               <l>The dangers paſt, and what might come ſurvayes,</l>
+               <l>Conſiders, that when Victory her Wings</l>
+               <l>Doth ſlack, the Conquer'd, oft the Pean ſings.</l>
+               <l>Delay of the purſuit, gives ſtrength, and time</l>
+               <l>To turn the Victors Valour, to his Crime.</l>
+               <l>His men, He therefore ſummons from the Prey,</l>
+               <l>Who, ſtarting, at the Signal, ſoon obey,</l>
+               <l>And with their Arms, again, all Rain'd with gore,</l>
+               <l>Threaten a greater ſlaughter than before;</l>
+               <l>While killing they went on, till ſtreams of blood</l>
+               <l>
+                  <note n="(v)" place="bottom">At their entrance of <hi>Megara</hi> the <hi>Romans</hi> made ſo great ſlaughter, that the blood of the <hi>Carthaginians</hi> made the way ſo ſlippery, that they could not purſue them, as they fled into the other retreats of the City. <hi>Vid. Appian. Libyc.</hi>
+                  </note>Choak'd up the way, and the purſuit withſtood.</l>
+            </lg>
+            <lg>
+               <l>But, now, the Sun declines, and either ſide,</l>
+               <l>Gainſt future dangers, for themſelves provide.</l>
+               <pb n="43" facs="tcp:100530:24"/>
+               <l>The labours of the Day could not appeaſe</l>
+               <l>Their Cares, nor Night their weary Bodies eaſe.</l>
+               <l>
+                  <note n="(w)" place="bottom">
+                     <hi>Cenſorinus</hi> the Conſul, had before perſwaded the <hi>Car<g ref="char:EOLhyphen"/>thaginians</hi> to deliver up all their Arms and Ships, with promiſe that they ſhould enjoy their Laws, but this done pronounc'd the deſtruction of their City, and their remo<g ref="char:EOLhyphen"/>val higher into the Countrey, that they might be wholly Strangers to the Sea, by which they had rats'd their Em<g ref="char:EOLhyphen"/>pire. This Sentence drove them to that Deſpair, which made them renew the war more fiercely, than when in a better condition. <hi>Appian. ibid.</hi>
+                  </note>Not long before, by <hi>Cenſorinus</hi> doom,</l>
+               <l>
+                  <hi>Carthage,</hi> by fatal Change for Peace with <hi>Rome,</hi>
+               </l>
+               <l>Her Elephants, her Arms, her Ships, with all</l>
+               <l>She or her Glory, or Defence could call,</l>
+               <l>Had to the Foe given up, and, every where,</l>
+               <l>Was naked left, till Ruin and Deſpair,</l>
+               <l>Arm'd her again, no weapons now remain'd,</l>
+               <l>But ſuch, whoſe matter from their Temples gain'd,</l>
+               <l>Or ſtately Palaces, were forg'd by night,</l>
+               <l>And ſitted, e'r the following day for fight;</l>
+               <l>By weak and artleſs hands their Bulwarks are</l>
+               <l>From Ruins rais'd, and they maintain the war,</l>
+               <l>With all that makes them weak. Nothing for Sea</l>
+               <l>Or Land can be ſuppli'd, but by the Prey</l>
+               <l>And Spoil upon themſelves. Their Cables were</l>
+               <l>
+                  <note n="(x)" place="bottom">Vid. Appian. ibid.</note>Compos'd of Mothers, or of Virgins hair,</l>
+               <l>Who cut the lovely Treſſes from their heads,</l>
+               <l>And firmly interwove the Curling threads,</l>
+               <l>So, that their little Navy was ſuppli'd</l>
+               <l>With Cordage, late their Beauty and their Pride,</l>
+               <l>Such, as ev'n <hi>Cytherea</hi> had bewail'd,</l>
+               <l>Had not the Love of <hi>Rome,</hi> bove all prevail'd.</l>
+               <pb n="44" facs="tcp:100530:25"/>
+               <l>All other gods bemoan'd this City's Fate,</l>
+               <l>Whoſe Miſeries no Muſe can well relate;</l>
+               <l>Whoſe diſmal Story do's exceed belief,</l>
+               <l>And Cruelty it ſelf afflicts with grief.</l>
+               <l>That City, which ſeven hundred years had ſtood;</l>
+               <l>Which with expence of ſo much wealth and blood,</l>
+               <l>Her Walls (firſt meaſur'd by an Oxe's Hide)</l>
+               <l>So high, had rais'd, and ſtretcht her Bounds ſo wide,</l>
+               <l>That ev'n <hi>Rome</hi> fear'd her Yoak, in a vaſt Flame,</l>
+               <l>Muſt loſe, at once, her Empire, and her Name.</l>
+            </lg>
+            <lg>
+               <l>But<note n="(*)" place="bottom">Juſtice.</note> 
+                  <hi>Nemeſis</hi> that ſometimes ſlow, ſometimes</l>
+               <l>As ſwift, as thought's aveng'd on proſp'rous Crimes,</l>
+               <l>Their want of Faith, by which they did delude</l>
+               <l>The gods ſo oft, their unjuſt Arms imbru'd</l>
+               <l>So oft in blood of Innocents, their dire</l>
+               <l>Exceſs of Cruelty, by ſword and fire,</l>
+               <l>While they their Arms in <hi>Italy</hi> employ'd,</l>
+               <l>
+                  <note n="(y)" place="bottom">While <hi>Hannibal</hi> was in <hi>Italy,</hi> he deſtroyed (ſaith <hi>Ap<g ref="char:EOLhyphen"/>pian</hi>) four hundred Cities.</note>And twice two hundred Cities had deſtroy'd,</l>
+               <l>Thus to the gods (who then in Counſel ſate,</l>
+               <l>To underſtand the laſt reſolves of Fate)</l>
+               <l>With juſt Complaint declares, <hi>If yet (ye gods)</hi>
+               </l>
+               <l>
+                  <hi>Th' Impieties of Earth, to your Abodes</hi>
+               </l>
+               <l>
+                  <hi>Have not arriv'd; if their repeated Faults</hi>
+               </l>
+               <l>
+                  <hi>Have not with horror ſhook Celeſtial Vaults;</hi>
+               </l>
+               <l>
+                  <hi>I, againſt</hi> Carthage, <hi>ſhould not now declaim</hi>
+               </l>
+               <l>
+                  <hi>Above the reſt, did not her Impious Fame,</hi>
+               </l>
+               <l>
+                  <hi>So fill the <g ref="char:V">Ʋ</g>niverſe, that Men begin</hi>
+               </l>
+               <l>
+                  <hi>To question, that you are, or that y'ave bin.</hi>
+               </l>
+               <l>
+                  <hi>Your Juſtice thus deferr'd, makes them grow bold,</hi>
+               </l>
+               <l>
+                  <hi>And Crimes like Vertues look, while uncontroul'd.</hi>
+               </l>
+               <pb n="45" facs="tcp:100530:25"/>
+               <l>
+                  <hi>Though</hi> Carthage <hi>hath been guilty long of all</hi>
+               </l>
+               <l>
+                  <hi>Thoſe Ills, for which you let your Thunder fall</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon the World, yet can ſhe not forbear</hi>
+               </l>
+               <l>
+                  <hi>T'excite your Anger, even in her deſpair.</hi>
+               </l>
+               <l>
+                  <hi>Not Tygers, nor her</hi> Libyan <hi>Serpents can</hi>
+               </l>
+               <l>
+                  <hi>More Rage and Fury, againſt wretched Man</hi>
+               </l>
+               <l>
+                  <hi>Expreſs than She. See! what Inſernal Arts</hi>
+               </l>
+               <l>
+                  <hi>She now in practice puts, in all her parts!</hi>
+               </l>
+               <l>
+                  <hi>Not</hi>
+                  <note n="(*)" place="bottom">
+                     <hi>Scinis</hi> a famous Robber in <hi>Theſſaly,</hi> tyed ſuch as he took Captive, to Branches of a Pine, bowing them to be faſtened to their Legs and Arms, and then letting them fly back, ſuddenly, to their Natural Poſition, tore the Bodies in pieces.</note> Scinis <hi>Pine, nor dire</hi>
+                  <note n="(†)" place="bottom">
+                     <hi>Procruſtes</hi> another Robber, who tortured ſuch as he took, on a Bed; to the length whereof he fitted all Bo<g ref="char:EOLhyphen"/>dies; which if too long he cut ſhorter, if too ſhort he ex<g ref="char:EOLhyphen"/>tended by the Rack.</note> Procruſtes <hi>Bed</hi>
+               </l>
+               <l>
+                  <hi>So cruel were as theſe; nor</hi>
+                  <note n="(*)" place="bottom">
+                     <hi>Diomed</hi> King of <hi>Thrace,</hi> fed his Horſes with the fleſh of ſuch ſtrangers as he took in his dominions.</note> 
+                  <hi>Horſes fed</hi>
+               </l>
+               <l>
+                  <hi>With Humane Fleſh. See! How around her Walls,</hi>
+               </l>
+               <l>
+                  <note n="(z)" place="bottom">
+                     <hi>Haſdrubal</hi> to put the <hi>Carthaginians</hi> paſt all hopes of mercy from the <hi>Romans,</hi> with ſeveral exquiſite and moſt barbarous torments, put to death all Captives upon the Walls, in view of the Camp. <hi>Vid. Appian. ibid.</hi>
+                  </note>
+                  <hi>To the Inhumane Spectacle, She calls</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Roman <hi>Camp, while tortur'd Captives lie</hi>
+               </l>
+               <l>
+                  <hi>Kill'd in each limb, not ſuffer'd, yet, to die;</hi>
+               </l>
+               <l>
+                  <hi>But are conſtrain'd, expiring, to revive,</hi>
+               </l>
+               <l>
+                  <hi>And, Nature by freſh torments kept alive:</hi>
+               </l>
+               <l>
+                  <hi>'Tis therefore time this City to debell,</hi>
+               </l>
+               <l>
+                  <hi>And let them know, ſuch Cruelty's for Hell,</hi>
+               </l>
+               <l>
+                  <hi>Alone reſerv'd, and thoſe who practice't there</hi>
+               </l>
+               <l>
+                  <hi>On Earth, ſhall greater Plagues for ever bear.</hi>
+               </l>
+               <pb n="46" facs="tcp:100530:26"/>
+               <l>This ſaid, the Father of the gods, the Hour</l>
+               <l>Aſſigns to Fates, to execute their Pow'r,</l>
+               <l>Which they to <hi>Scipio</hi> devolve, and He,</l>
+               <l>In the purſuit of their ſevere Decree,</l>
+               <l>
+                  <note n="(a)" place="bottom">
+                     <hi>Cotho</hi> was the ſtrongeſt part of the Haven, encompaſ<g ref="char:EOLhyphen"/>ſed by a Wall, which <hi>Laelius</hi> took by aſſault in the night; and this taken, there was no poſſibility of relief by Sea.</note>
+                  <hi>Cotho,</hi> their beſt ſupport, firſt takes away,</l>
+               <l>And cuts off all Relief by Land and Sea.</l>
+               <l>Then Famine from the <hi>Libyan</hi> Deſart comes,</l>
+               <l>And greedily their Stores, for Food, conſumes.</l>
+               <l>Her gaſtly looks, more dreadful than the Foe,</l>
+               <l>A long, protracted Death, and Ruin ſhow.</l>
+               <l>Through the whole City then ſhe raging flies,</l>
+               <l>And with nefandous Meats a while ſupplies</l>
+               <l>The weak remains of Life. All that before</l>
+               <l>
+                  <hi>Sagunthus</hi> felt, or angry gods could more</l>
+               <l>Inflict, poor <hi>Carthage</hi> ſuffers, till her ſtrength</l>
+               <l>Unable to ſupport her Arms, at length,</l>
+               <l>
+                  <note n="(b)" place="bottom">The City being reduced to the laſt extremity by famine, forty thouſand (among whom the Chief was <hi>Haſdrubal</hi>) came out and ſubmitted to <hi>Scipio.</hi>
+                  </note>Twice twenty thouſand to the Victor yield,</l>
+               <l>And treacherous <hi>Haſdrubal,</hi> who long the Field</l>
+               <l>Had kept, deſpairing to afford her aid,</l>
+               <l>Himſelf, a vile ſubmiſſive Captive laid</l>
+               <l>At <hi>Scipio</hi>'s Feet, and in the publick view,</l>
+               <l>
+                  <note n="(c)" place="bottom">
+                     <hi>Haſdrubal</hi> was placed in Chains, at <hi>Scipio</hi>'s Feet, ſit<g ref="char:EOLhyphen"/>ting on a high Tribunal, that he might be ſeen, by his Wife, and thoſe with Her, in the Temple of <hi>Aeſculapius.</hi>
+                  </note>Enchain'd, for an Inglorious Life doth ſue.</l>
+            </lg>
+            <lg>
+               <l>And, now the Hour arriv'd, and, every where,</l>
+               <l>Death and Deſtruction in all Shapes appear.</l>
+               <pb n="47" facs="tcp:100530:26"/>
+               <l>Like Ghoſts the Famiſh'd People in the Street</l>
+               <l>Offring their throats to ſlaughter boldly meet</l>
+               <l>The Conquerour, who now amazed ſtands,</l>
+               <l>And do's a while with hold his cruel hands,</l>
+               <l>Till Pity the Relief of death affords</l>
+               <l>To thoſe, who wanted Blood to ſtain their Swords;</l>
+               <l>Who this, their chief Felicity do call,</l>
+               <l>That with their ruin'd Countrey they may fall;</l>
+               <l>
+                  <note n="(d)" place="bottom">When <hi>Scipio</hi> ſaw the City firſt a fire, be (conſidering the inſtability of Fortune, and that the ſame thing might happen to his Countrey) wept. <hi>Appian.</hi>
+                  </note>And leave even <hi>Scipio</hi> to bewail them, while</l>
+               <l>
+                  <hi>Carthage</hi> in flames, is made their Funeral Pile.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="(e)" place="bottom">This Temple of <hi>Aeculapius</hi> (the moſt wealthy in all <hi>Carthage</hi>) with a Tower of great ſtrength, by reaſon of the narrow paſſage to it, was ſituate on eminent Rocks, and had ſixty ſteps to aſcend to it, and was the laſt place of Retreat, when the reſt of the City was taken and fired.</note>High as the Capitol, and, long, above</l>
+               <l>All other ſacred held, as that to <hi>Jove,</hi>
+               </l>
+               <l>A Temple ſtood, where the<note n="(*)" place="bottom">Aeſculapius.</note> 
+                  <hi>Crotonian</hi> God</l>
+               <l>With Offrings rich, kept his ſelect Abode,</l>
+               <l>And <hi>Libyan</hi> Votaries, reſtor'd to Health.</l>
+               <l>Here to preſerve his Honour, and the Wealth,</l>
+               <l>A Tower was rais'd, from whence they could explore</l>
+               <l>The Countrey round, the City, Seas, and Shore.</l>
+               <l>Thither <hi>Bareinna,</hi> by her Courage led,</l>
+               <l>To be more honour'd then her husband, fled.</l>
+               <l>And, with a few defends the narrow way,</l>
+               <l>Againſt the Foe; and while ſhe doth ſurvey</l>
+               <l>The Stately Palaces, whoſe lofty Rooms</l>
+               <l>Enrich'd, with Tapiſtry from <hi>Tyrian</hi> Looms,</l>
+               <pb n="48" facs="tcp:100530:27"/>
+               <l>And Rooſs with Gold and Ivory inlay'd,</l>
+               <l>(To boaſt her former Wealth) to <hi>Vulcan</hi> made</l>
+               <l>A Sacrifice; <hi>It well becomes</hi> (ſaid She)</l>
+               <l>(<hi>Dear</hi> Carthage) <hi>thy ſad Deſtiny, and Me,</hi>
+               </l>
+               <l>
+                  <hi>With <g ref="char:V">Ʋ</g>niverſal Ruin thus to fall;</hi>
+               </l>
+               <l>
+                  <hi>This Pomp is fitteſt for Our Funeral.</hi>
+               </l>
+               <l>
+                  <hi>I cannot wiſh thee ſtand, when</hi> Rome <hi>ſhall be</hi>
+               </l>
+               <l>
+                  <hi>Thy Miſtriſs, and imprſe her Laws on Thee:</hi>
+               </l>
+               <l>
+                  <hi>Thoſe who do covet to ſurvive Thee, are</hi>
+               </l>
+               <l>
+                  <hi>Such, whom not Pity, but Contempt doth ſpare;</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nworthy, in ſuch glorious Flames to die,</hi>
+               </l>
+               <l>
+                  <hi>Or mix'd with Thee, as in one <g ref="char:V">Ʋ</g>rn to lie.</hi>
+               </l>
+               <l>As this She ſpake, She ſome, whoſe little breath,</l>
+               <l>Could only beg a ſhort Reprieve from death;</l>
+               <l>
+                  <note n="(f)" place="bottom">
+                     <hi>Verbenae</hi> (or <hi>Vervin</hi>) with other Herbs and Flowers, taken from the Altars, were as often uſed as Olive Bran<g ref="char:EOLhyphen"/>ches, to be held out by ſuch as begg'd Peace.</note>Their hands (with Vervin from the Altar fill'd)</l>
+               <l>Extended to the <hi>Roman</hi> Camp, beheld,</l>
+               <l>'Mong theſe, as chief, her <hi>Haſdrubal</hi> was ſeen;</l>
+               <l>Then, as by <hi>Gorgon</hi> She ſurpriz'd had been,</l>
+               <l>All tears with rage dri'd up; <hi>Wretch! worthy all</hi>
+               </l>
+               <l>
+                  <hi>The Miſeries, that can on</hi> Carthage <hi>fall,</hi>
+               </l>
+               <l>(She cries) <hi>perfidious Wretch! who do'ſt deſire</hi>
+               </l>
+               <l>
+                  <hi>To live, when thy dear Countrey do's expire!</hi>
+               </l>
+               <l>
+                  <hi>Oh! born to be a Slave! and, what is worſt,</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nto the Servitude of</hi> Rome <hi>accurſt.</hi>
+               </l>
+               <l>
+                  <hi>And moſt unhappy I, who live to ſee't!</hi>
+               </l>
+               <l>
+                  <hi>What ſhall I ſay, when</hi> Hannibal <hi>I meet</hi>
+               </l>
+               <l>
+                  <hi>In thoſe Abodes where Noble Heroes ſhine?</hi>
+               </l>
+               <l>
+                  <hi>How bluſh, that ſuch degenerate blood, as thine,</hi>
+               </l>
+               <l>
+                  <hi>I have commixt with His? but this diſgrace</hi>
+               </l>
+               <l>
+                  <hi>With Thee (vile Man) the laſt of all thy Race,</hi>
+               </l>
+               <pb n="49" facs="tcp:100530:27"/>
+               <l>
+                  <hi>With Thee ſhall die; and theſe thy Sons ſhall be,</hi>
+               </l>
+               <l>
+                  <hi>My laſt of Sacrifice, ſince got by Thee;</hi>
+               </l>
+               <l>
+                  <hi>Worthy to be reſerv'd, as they are Thine,</hi>
+               </l>
+               <l>
+                  <hi>For</hi> Roman <hi>Triumphs; but as they are Mine,</hi>
+               </l>
+               <l>
+                  <hi>Most worthy thus to die, and with Me go</hi>
+               </l>
+               <l>
+                  <hi>To</hi> Hannibal's <hi>Embrace, in Shades below.</hi>
+               </l>
+               <l>This ſaid, into her hand, <hi>Erinnys</hi> puts</l>
+               <l>A Sword, with which their tender throats ſhe cuts.</l>
+               <l>Then to the Fane her flaming<note n="(f)" place="bottom">
+                     <hi>Verbenae</hi> (or <hi>Vervin</hi>) with other Herbs and Flowers, taken from the Altars, were as often uſed as Olive Bran<g ref="char:EOLhyphen"/>ches, to be held out by ſuch as begg'd Peace.</note> Yew applies,</l>
+               <l>And, to deprive the Conqueror of his prize,</l>
+               <l>All that ſhe pretious held, or did eſteem</l>
+               <l>Might to the Enemy a Trophy ſeem,</l>
+               <l>Into the Fire ſhe throws: then on them lays</l>
+               <l>Her bleeding<note n="(g)" place="bottom">This Speech of <hi>Barcinna</hi>'s to <hi>Scipio;</hi> and her dete<g ref="char:EOLhyphen"/>ſtation of her Husbands puſillanimity is recorded by <hi>Appian.</hi>
+                  </note> Sons; and, as, a while, ſhe prays Their hovering Manes to attend her fall;</l>
+               <l>
+                  <hi>To thee</hi> (ſaid ſhe) <hi>brave</hi> Scipio <hi>may all</hi>
+               </l>
+               <l>
+                  <hi>The gods propitious be, as now they are;</hi>
+               </l>
+               <l>
+                  <hi>Thou only doſt purſue the Laws of War:</hi>
+               </l>
+               <l>
+                  <hi>But, may that most Effeminate of Slaves</hi>
+               </l>
+               <l>
+                  <hi>Long, ſuch, be thine; nor croſs the Stygian Waves,</hi>
+               </l>
+               <l>
+                  <hi>Till he ſhall wiſh, that joyn'd unto my ſide.</hi>
+               </l>
+               <l>
+                  <hi>As in our Nuptial Bed, with Me h'had dy'd.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This ſaid, into the Flames ſhe leaps, and all</l>
+               <l>The Temple, with the Tow'rs together fall</l>
+               <l>Upon Her, in one Heap, as if to entomb</l>
+               <l>
+                  <hi>Barcinna</hi>'s Aſhes, in deſpight of <hi>Rome;</hi>
+               </l>
+               <pb n="50" facs="tcp:100530:28"/>
+               <l>Fate had that Monument, that all ſurpaſt,</l>
+               <l>For her reſerv'd, the Wealthieſt, and the laſt,</l>
+               <l>That ſo with <hi>Carthage,</hi> equal in her Fame,</l>
+               <l>She might perpetuate to the World her Name.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="verse_advice">
+            <pb n="51" facs="tcp:100530:28"/>
+            <head>
+               <hi>THEODOSI<g ref="char:V">Ʋ</g>S</hi> His ADVICE to his Son <hi>E. Claudian.</hi> 40. <hi>Honorii Conſulat.</hi>
+            </head>
+            <lg>
+               <l>HAd Fortune plac'd Thee on the <hi>Parthian</hi> Throne,</l>
+               <l>(Dear Youth) and far, i'th Eaſt, ador'd, alone,</l>
+               <l>The rude <hi>Tiara</hi> crown'd thy' <hi>Arſacian</hi> Brow,</l>
+               <l>Thy high Deſcent might then ſuffice, and thou</l>
+               <l>Secur'd by Birth, might'ſt in thy Pleaſures flow.</l>
+               <l>But <hi>Rome</hi>'s great Court, will no ſuch Princes know.</l>
+               <l>There not in Blood, but Vertue, thou muſt ſhine,</l>
+               <l>And, to that Vertue, noble Actions join;</l>
+               <l>Which hid, is vile: for, what can it produce,</l>
+               <l>In darkneſs drown'd? like Ships, that want the uſe</l>
+               <l>Of Helmes; or Lutes without their Strings, or Bows</l>
+               <l>Unbent. Yet this, who e'r Himſelf not knows,</l>
+               <l>Nor can the Paſſions, of the Mind, allay,</l>
+               <l>Shall ne'r obtain. To it's a rugged way.</l>
+            </lg>
+            <lg>
+               <l>Learn what Man is; when his Aetherial Flame</l>
+               <l>
+                  <hi>Prometheus</hi> mix'd with Earth, our Parts to frame,</l>
+               <l>Sincere, as when from Heav'n He ſtole't, the Mind,</l>
+               <l>Struggling for liberty, He kept confin'd,</l>
+               <pb n="52" facs="tcp:100530:29"/>
+               <l>And, when Things Mortal, nothing could compoſe,</l>
+               <l>Two more He added: with the Body thoſe</l>
+               <l>Periſh, but, this ſurvives, when they are dead,</l>
+               <l>And upward flies. Her Empire's in the Head,</l>
+               <l>Where all Our Actions ſhe directs and guides.</l>
+               <l>Their ſtation's lower, which the Neck divides</l>
+               <l>From Hers. Where They her Dictates entertain,</l>
+               <l>And, that Things Sacred, might not with Prophane</l>
+               <l>Be mix'd, the Workman gave, to every part,</l>
+               <l>Its place, diſtinct. Anger, the Bloodlike Heart</l>
+               <l>Within the Breſt maintains, as fill'd with Fire,</l>
+               <l>It ſwells, when headlong Rage, or mad Deſire</l>
+               <l>Of Miſchief, it inflames: when chill'd, with Fear,</l>
+               <l>It ſelf contracts; but, when 'twas found to bear</l>
+               <l>All things, with violence, and reſt deny</l>
+               <l>To the whole Frame, the Lungs a moiſt ſupply</l>
+               <l>Of Air, yield to the liquid Flames, and, ſo</l>
+               <l>The ſwelling Fibres, through ſoft Conduits, flow.</l>
+            </lg>
+            <lg>
+               <l>But, weighing nought, all coveting, deſire</l>
+               <l>Is forc'd into the Liver to retire,</l>
+               <l>And lower Tracts. Where, when ſhe opens, wide,</l>
+               <l>Her Monſtrous Jaws, ſhe can be ſatisfi'd</l>
+               <l>With no ſupplies. Sometimes, ſhe's wrack'd with cares</l>
+               <l>Of Avarice: ſometimes the Wounds ſhe bears</l>
+               <l>Of burning Love: ſometimes her Joys o'rflow,</l>
+               <l>And then, oppreſs'd with grief, the ſtreams as low.</l>
+               <l>Then ſatisfi'd, again, doth higher riſe</l>
+               <l>Like <hi>Hydra</hi> ſlain, which Death with Strength ſupplies.</l>
+               <l>But, whoſoe'r theſe Tumults can controul,</l>
+               <l>Gives a ſafe Temple to the Pureſt Soul.</l>
+               <l>Though thou command the fartheſt <hi>Indian</hi> Shore,</l>
+               <l>Though <hi>Medes,</hi> ſoft <hi>Arabs, Serians</hi> thee adore:</l>
+               <l>If Anger ſway thee, baſe Deſires, or Fear,</l>
+               <l>Thou art a Slave: within thy Self ſhalt bear</l>
+               <pb n="53" facs="tcp:100530:29"/>
+               <l>Unequal Laws: Thou, then, of Right, maiſt bring</l>
+               <l>All, to thy Rule, when of thy Self, thou'rt King.</l>
+               <l>'Tis Cuſtom makes Us prone to Sin, and We</l>
+               <l>To all the Charms, of rein-leſs Luxury,</l>
+               <l>By licence, yield: 'tis Conqueſt to be chaſt</l>
+               <l>When <hi>Venus</hi> tempts thee. Or when Wrong is plac'd</l>
+               <l>Before thee, to ſuppreſs thy Rage. But theſe</l>
+               <l>Dire Tumults, wiſely, in thy ſelf appeaſe;</l>
+               <l>Nor what thou maiſt, but, what becomes thee, do,</l>
+               <l>And teach thy thoughts, Things Honeſt to purſue.</l>
+            </lg>
+            <lg>
+               <l>But above All, think, oft on this, That thou</l>
+               <l>Liv'ſt in the midſt of all the World, and how</l>
+               <l>Thy Actions to all People are reveal'd.</l>
+               <l>
+                  <hi>A Princes Vices never are conceald.</hi>
+               </l>
+               <l>For their high Fate diſcovers all they do,</l>
+               <l>And buſie Fame explores, and pries, into</l>
+               <l>Their moſt reſerv'd Retreats. Let Piety</l>
+               <l>Be thy chief Care; for though We' inferiour be</l>
+               <l>In all we do, yet Piety, alone,</l>
+               <l>Can make Us like the gods. Jealous of none</l>
+               <l>Nor doubtful be, but, Conſtant to thy Friends;</l>
+               <l>Not greedy of Reports, who e'r attends</l>
+               <l>Such Vanities, ſhall empty Rumors fear,</l>
+               <l>And, in Himſelf, be wrack'd with anxious Care.</l>
+            </lg>
+            <lg>
+               <l>No Strength of Guards, nor Rings of Piles can prove</l>
+               <l>So ſafe to Thee, as will the Peoples Love:</l>
+               <l>Which Thou ſhalt never force. Thy Kindneſs muſt</l>
+               <l>Create this in them, and, a Mutual Truſt</l>
+               <l>Thou ſeeſt the Worlds fair Frame it ſelf entire</l>
+               <l>Preſerves, by Love. The Elements conſpire,</l>
+               <l>Kindly, among themſelves. His Tract the Sun</l>
+               <l>Still keeps. The Sea, within its ſhores, doth run:</l>
+               <l>and th'Aire, by which Earth's compaſt, and upheld,</l>
+               <l>Nor preſſeth on its Burthen, nor doth yield.</l>
+               <pb n="54" facs="tcp:100530:30"/>
+               <l>Tyrants, who Terrors give, fear more: They ſtill</l>
+               <l>The Famous envy, and the Valiant kill.</l>
+               <l>Though Swords and Poiſon guard them, no Retreat</l>
+               <l>To them ſeems ſafe, they tremble, while they threat.</l>
+            </lg>
+            <lg>
+               <l>Like a Good Patriot, and a Father All</l>
+               <l>Adviſe not for thy ſelf; and, what they call</l>
+               <l>The Publick Good, prefer before thine own.</l>
+               <l>If a Decree thou publiſh, to be known</l>
+               <l>As ſacred, firſt obſerve thine own command;</l>
+               <l>The People will ſubmit, and ne'r withſtand</l>
+               <l>
+                  <hi>A Law, whoſe Author, firſt, Himſelf obeys.</hi>
+               </l>
+               <l>
+                  <hi>A King's Example, all his Kingdom ſways.</hi>
+               </l>
+               <l>
+                  <hi>His Life, more than Edicts, upon the Minds</hi>
+               </l>
+               <l>
+                  <hi>Of Men prevails; and, as the Vulgar finds</hi>
+               </l>
+               <l>
+                  <hi>Him change, they follow. But when this is done,</hi>
+               </l>
+               <l>
+                  <hi>Slight none beneath Thee; nor deſire to run</hi>
+               </l>
+               <l>
+                  <hi>Beyond the Bounds to man preſcrib'd; for Pride</hi>
+               </l>
+               <l>
+                  <hi>Like a black cloud, the brighteſt parts will hide.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>We give Thee not <hi>Sabeans,</hi> apt to be</l>
+               <l>Enſlav'd. Nor the <hi>Armenian</hi> Monarchy,</l>
+               <l>Nor the <hi>Aſſyrian</hi> (once a Womans) Throne.</l>
+               <l>
+                  <hi>Thou Romans muſt command:</hi> who, long, alone</l>
+               <l>Have rul'd the Univerſe: who nor the Pride</l>
+               <l>Of <hi>Tarquins,</hi> nor would <hi>Caeſar</hi>'s Laws abide;</l>
+               <l>Our Annals ancient Crimes record, whoſe ſtains</l>
+               <l>Eternal are. What Age the Monſtrous Reigns,</l>
+               <l>Of the <hi>Caeſarean</hi> Houſe, will not abhor?</l>
+               <l>Who knows not <hi>Nero</hi>'s cruel Murthers? or</l>
+               <l>
+                  <note n="(a)" place="bottom">
+                     <hi>Tiberius Caeſar,</hi> retired to <hi>Capreae,</hi> a little Iſland in <hi>Campania,</hi> where be acted many cruel Murthers and abominable Luſts.</note>The horrid <hi>Caprean Grotto,</hi> by an old</l>
+               <l>Inceſtuous Man poſſeſt. Thou mayſt behold</l>
+               <pb n="55" facs="tcp:100530:30"/>
+               <l>Great <hi>Trajan</hi>-ſtill, Immortal, in his Fame;</l>
+               <l>Not that, with Conqueſt, He from <hi>Tigris</hi> came,</l>
+               <l>And <hi>Parthia</hi> made our Province: Or, that He</l>
+               <l>In Triumph, for his <hi>Dacian</hi> Victory,</l>
+               <l>Entred the Capitol; but, that his Mind</l>
+               <l>Was Equal ſtill, and to his Countrey kind.</l>
+            </lg>
+            <lg>
+               <l>Such Great Examples (my dear Son) be ſure</l>
+               <l>To follow; and, when call'd to war, inure</l>
+               <l>Thy Troops to labour, and for ſharpeſt fights</l>
+               <l>Prepare; let not the Eaſe, or warm delights</l>
+               <l>Of Winter Quarters, thy unactive Hands</l>
+               <l>Un-nerve: but, in ſome wholeſome place, thy Bands</l>
+               <l>Encamp, and with ſtrong Guards, thy Line defend.</l>
+               <l>Learn when to cloſe thy Ranks, when to extend</l>
+               <l>Thy equal Wings, and them to cloſe again.</l>
+               <l>What Troops are fit for Hills, what for the Plain.</l>
+               <l>What Valleys apt for Ambuſh; what wayes are</l>
+               <l>Moſt difficult: And if the Foe the war</l>
+               <l>Within their Walls maintain, for battery ſtrait</l>
+               <l>Prepare, and let thy Rams the maſſie weight</l>
+               <l>Of ſtones roll down; the arm'd <hi>Teſtudo</hi> ſhake</l>
+               <l>Their Gates; the lab'ring youth their paſſage make</l>
+               <l>Through ſecret Mines. If a long Siege delay</l>
+               <l>Thy hopes, let not ſecure Conceits betray</l>
+               <l>Thy Conqueſt, or believe them cloſe block'd in;</l>
+               <l>
+                  <hi>Many by Careleſs Mirth have ruin'd bin.</hi>
+               </l>
+               <l>
+                  <hi>Straggling they've periſh'd, and while Eaſe they enjoy'd,</hi>
+               </l>
+               <l>
+                  <hi>Oft Victory hath guardleſs Troops deſtroy'd.</hi>
+               </l>
+               <l>Let not thy Tents be fill'd with the delight</l>
+               <l>Of Courts; nor let arm'd Luxury invite</l>
+               <l>Soft Miniſters of Luſt, ſtill to attend</l>
+               <l>Thy Enſigns; nor be careful to defend</l>
+               <l>Thy ſelf from Winds and Rain, nor ſeek to ſhun</l>
+               <l>With rich <hi>
+                     <g ref="char:V">Ʋ</g>mbrello</hi>'s, the too furious Sun.</l>
+               <pb n="56" facs="tcp:100530:31"/>
+               <l>Eat what thou ready find it, thy ſelf apply</l>
+               <l>To conſtant exercice. Be foremoſt, high,</l>
+               <l>Steep Mountains to aſcend; nor think it ſhame</l>
+               <l>To take an Axe in hand, when need ſhall claim</l>
+               <l>A Wood be fell'd. If thou 'rt to paſs a Moor,</l>
+               <l>Or Lake, on Horſe-back, firſt, the depth explore.</l>
+               <l>O'r frozen Rivers let thy Chariot go</l>
+               <l>The foremoſt: firſt ſwim over thoſe that flow.</l>
+               <l>When hors'd, through Troops of Horſe charge, boldly, when</l>
+               <l>A-foot, the Foot aſſiſt; all danger then</l>
+               <l>Will glorious, and grateful ſeem, when thou</l>
+               <l>Art preſent, and, ſhalt each brave deed allow.</l>
+            </lg>
+            <lg>
+               <l>But, I thy early Inclinations know,</l>
+               <l>Be not too haſty, thou wilt ſtronger grow.</l>
+               <l>As yet not ten years old, thou doſt aſpire,</l>
+               <l>To what ev'n men may dread, I ſee the Fire,</l>
+               <l>The Marks of thy great Soul. 'Tis told by Fame,</l>
+               <l>That the brave youth, who <hi>Porus</hi> overcame,</l>
+               <l>'Midſt his Companions joys, wept, when he heard</l>
+               <l>His Father's frequent Victories, and fear'd</l>
+               <l>Great <hi>Philip</hi>'s proſp'rous Valour, nought would leave]</l>
+               <l>To him for future Conqueſt. I perceive</l>
+               <l>Like Motions in thee, and, may divine</l>
+               <l>(A Father may) thou wilt, hereafter, ſhine</l>
+               <l>As Great, as He; nor to my Favour owe</l>
+               <l>That Empire, which thy Innate Worth may ſo</l>
+               <l>Deſerv'dly claim. So, when the painted Spring</l>
+               <l>Appears, the murm'ring Bees their growing King,</l>
+               <l>Who muſt conduct them to the Fields, adore;</l>
+               <l>Their Publick Laws for Hony, and, for ſtore</l>
+               <l>In Combs, obſerve. So, a young Bull, whoſe Horns</l>
+               <l>Are yet ſcarce firm the Paſture claims, and ſcorns</l>
+               <l>A Rival in the Heard. But war forbear,</l>
+               <l>Till riper years, and, with thy Brother, here,</l>
+               <pb n="57" facs="tcp:100530:31"/>
+               <l>(While I'm engag'd) my place ſecure; you may</l>
+               <l>Teach unſubdu'd <hi>Araxis</hi> to obey,</l>
+               <l>And ſwift <hi>Euphrates.</hi> Yours all <hi>Nile</hi> may be,</l>
+               <l>With whatſoe'r the Riſing Sun doth ſee.</l>
+               <l>But, if the <hi>Alps</hi> we paſs, and our good Cauſe</l>
+               <l>Have like ſucceſs, that Warlike <hi>France</hi> thy Laws</l>
+               <l>May hear, and <hi>Spain,</hi> obey thy juſt Command,</l>
+               <l>Thou then ſhalt come, and, I, into thy Hand,</l>
+               <l>Will all my Conqueſts put. Then, then may I,</l>
+               <l>Secure of Fate, pleas'd with my labours, die:</l>
+               <l>While you both Poles may rule. Mean time, among</l>
+               <l>The Muſes ſtill thy ſelf employ, while young,</l>
+               <l>And read what thou may'ſt imitate, converſe</l>
+               <l>With <hi>Greece,</hi> and <hi>Rome</hi>'s Antiquities; diſcourſe</l>
+               <l>The Acts of ancient Captains, and apply</l>
+               <l>Thy thoughts to future war; on <hi>Italy</hi>
+               </l>
+               <l>As 'twas of old reflect; if thou aſpire</l>
+               <l>To a forc'd Liberty,<note n="(b)" place="bottom">Brutus <hi>the firſt Conſul, who expelled the</hi> Tarquins, <hi>and made</hi> Rome <hi>a Common- wealth.</hi>
+                  </note> 
+                  <hi>Brutus</hi> admire;</l>
+               <l>If Treachery thou hat'ſt, thou will't approve</l>
+               <l>Of<note n="(c)" place="bottom">
+                     <hi>Metius Suffetius</hi> by the Command of King <hi>Hoſtilius,</hi> was fiſtned to two Chariots, and torn in pieces; for that when be ſhould have aſſiſted him againſt his enemies, he only looked on, reſolving to ſide with the Conqucrour.</note> 
+                  <hi>Metius</hi> torture. If thou do'ſt not love</l>
+               <l>Too great ſeverity, thou wilt deteſt</l>
+               <l>
+                  <note n="(d)" place="bottom">
+                     <hi>Tit. Manlius Torquatus,</hi> who ſlew his Son for fighting without his Order, though he had the Victory, and brought the ſpoils of the Enemy to his Father, who crown'd him for his Victory, and then beheaded him for his Error.</note>
+                  <hi>Torquatus</hi> Act. If a vow'd death ſeem beſt.</l>
+               <pb n="58" facs="tcp:100530:32"/>
+               <l>
+                  <note n="(e)" place="bottom">The <hi>Decii</hi> were a Noble Family in <hi>Rome,</hi> three where<g ref="char:EOLhyphen"/>of ſucceſſively vowed Themſelves to Death, for their Countrey.</note>The <hi>Decii,</hi> running into dangers, you</l>
+               <l>Will reverence. What one brave Man may do,</l>
+               <l>
+                  <note n="(f)" place="bottom">Horatius Cocles. Vid. ſuprà lib. 2. 3tii. Belli Punic.</note>
+                  <hi>Cocles,</hi> on <hi>Tyber</hi>'s broken Bridge, alone,</l>
+               <l>Engag'd, and.<note n="(g)" place="bottom">
+                     <hi>Mutius Scaevola,</hi> who having vowed to kill <hi>Porſenna,</hi> then beſieging <hi>Rome,</hi> and killing another inſtead of him, burn'd his right hand for the miſtake, in preſenee of <hi>Por<g ref="char:EOLhyphen"/>ſenna;</hi> who admiring his Courage, and terrifi'd with the Information, that <hi>300</hi> more had vow'd the like, im<g ref="char:EOLhyphen"/>mediately made peace, and rais'd the Siege.</note> 
+                  <hi>Mutius</hi> burning Hand have ſhown.</l>
+               <l>From<note n="(h)" place="bottom">
+                     <hi>Fabius Maximus</hi> the Delayer, who tired out <hi>Hanni<g ref="char:EOLhyphen"/>bal,</hi> by his Delays of giving Battle; and ſo reliev'd his Countrey.</note> 
+                  <hi>Fabius</hi> learn th' Effects, of wiſe delay.</l>
+               <l>What in diſtreſs'd affairs, good Conduct may</l>
+               <l>Perform,<note n="(i)" place="bottom">
+                     <hi>Furius Camillus,</hi> the <hi>Gauls</hi> beſieging <hi>Rome,</hi> being then in exile, came upon them ſuddenly, deſtroyed their Army, and relieved the City.</note> 
+                  <hi>Camillus</hi> ſliughter of the <hi>Gauls</hi>
+               </l>
+               <l>Declares. <hi>Hence know, whatever chance befalls,</hi>
+               </l>
+               <l>
+                  <hi>True Merit ſtill excels.</hi> The cruelty</l>
+               <l>Of <hi>Carthage</hi> gives Eternal Fame to thee</l>
+               <l>
+                  <note n="(k)" place="bottom">
+                     <hi>Regulus</hi> taken priſoner by the <hi>Carthaginians,</hi> was ſent by them to <hi>Rome,</hi> upon promiſe, that if he did not obtain ſuch terms of Peace as they defired, he ſhould return to them. When at <hi>Rome,</hi> he adviſed them to purſue the war, and returning to <hi>Carthage,</hi> was cruelly put to death by them. <hi>Vid. Sil. Ital. lib. 6.</hi>
+                  </note>Great <hi>Regulus.</hi> Had<note n="*" place="bottom">Cato Uticenſis. Vid. lib. 1. 3d. Punic War.</note> 
+                  <hi>Cata</hi> had ſucceſs,</l>
+               <l>The Glory of his ſuffrings had been leſs.</l>
+               <pb n="59" facs="tcp:100530:32"/>
+               <l>Obſerve what ſober Poverty may do,</l>
+               <l>
+                  <note n="(l)" place="bottom">
+                     <hi>Cutius Dentatus,</hi> thrice Conſul, a Perſon of great fru<g ref="char:EOLhyphen"/>gality and integrity, refuſed the large Offers of <hi>Pyrrhus</hi> and the <hi>Samnites,</hi> whom he overthrew.</note>
+                  <hi>Curius</hi> was poor, when Kings he overthrew.</l>
+               <l>
+                  <note n="(m)" place="bottom">
+                     <hi>Fabritius</hi> did the like.</note>
+                  <hi>Fabritius</hi> poor, when he ſcorn'd <hi>Pyrrhus</hi> gold.</l>
+               <l>
+                  <note n="(n)" place="bottom">
+                     <hi>L. Quintus Cincinnatus,</hi> choſen Dictator while be was holding the Plough, and having overcome the <hi>Aequi,</hi> in ſixteen days laid down his Office, and returned to his Husbandry.</note>Nor did <hi>Serranus</hi> think it ſhame, to hold</l>
+               <l>The dirty Plough, when a Dictator, and</l>
+               <l>(His humble Cottage view'd) the Lictor's hand</l>
+               <l>Fix'd to the Willow Poſts, his <hi>Faſces.</hi> There</l>
+               <l>The Harveſts by a Conſul gather'd were.</l>
+               <l>And the rude Fallows (to advance their Rate)</l>
+               <l>Till'd by a Ploughman, in his Robes of State.</l>
+            </lg>
+            <lg>
+               <l>Thus your great Father, like an Aged Guide</l>
+               <l>Of ſome tall Ship, by many Winters try'd</l>
+               <l>With various ſtorms, of the Sea weary grown,</l>
+               <l>And Age, commends the Helm unto his Son.</l>
+               <l>Shews him all dangers, and his Arts: What Star</l>
+               <l>The right-hand guides: How ſwelling Billows are</l>
+               <l>By ſteerage, to be ſhun'd: The Signs of Rain,</l>
+               <l>The treachery of clear Skies: When to the Main</l>
+               <l>The Sun deſcends, what will enſue: What Wind</l>
+               <l>Diſturbs the Moon, and makes her Face unkind.</l>
+               <l>But now, great Prince, wherever thou do'ſt ſhine,</l>
+               <l>Whether the South, or Northern Heav'n be thine,</l>
+               <l>See thy deſire fulfill'd; thy Noble Deeds</l>
+               <l>Thy Son not only equals, but exceeds.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="60" facs="tcp:100530:33"/>
+            <head>THE PHENIX: Out of <hi>CLA<g ref="char:V">Ʋ</g>DIAN.</hi>
+            </head>
+            <lg>
+               <l>BEyond the <hi>Indies,</hi> and where <hi>Eurus</hi> Wings</l>
+               <l>Are ſpread, by fartheſt Seas encompaſs'd, ſprings</l>
+               <l>A Grove, which, by <hi>Sol</hi>'s lab'ring Steeds, of all</l>
+               <l>Is, firſt, awak'd, and hears the laſhes fall,</l>
+               <l>When the moiſt borders, with the dewy Coach</l>
+               <l>Reſound. Whence, by her Bluſh, the Morns approach</l>
+               <l>Is ſeen, and; in her flying Mantle, Night</l>
+               <l>From far grows pale, by the reflected light.</l>
+               <l>Here, the too happy Phenix lives, alone,</l>
+               <l>Fenc'd with a matchleſs Climate, touch'd by none</l>
+               <l>Of Nature's ſickly Race: where ne'r oppreſt</l>
+               <l>By thoſe Contagions, that the World infeſt,</l>
+               <l>He (like the gods) continues Firm, as are</l>
+               <l>The Stars, and, with Recruited Limbs, the War</l>
+               <l>Of Time debells; not us'd, with Cates, the rage</l>
+               <l>Of Hunger to ſubdue: or Thirſt aſſwage</l>
+               <l>In Springs. But, nouriſh'd by the purer Rayes</l>
+               <l>O'th' Sun, and harmleſs Vapors of the Seas,</l>
+               <l>Lives on that Airy Food. A Secret Light</l>
+               <l>Flies from his Eyes, about his Face as bright</l>
+               <pb n="61" facs="tcp:100530:33"/>
+               <l>A Glory ſhines, and, on his Radiant Head,</l>
+               <l>The riſing Creſt a Native Star doth ſpread:</l>
+               <l>From whoſe clear Beams, divided Darkneſs flies,</l>
+               <l>As from the Day. Rich Scarlet paints his Thighs,</l>
+               <l>And his Wings (which <hi>Cerulean</hi> Flowers enfold)</l>
+               <l>Out-fly the Winds, above enrich'd with gold.</l>
+               <l>He, Sire, and Off-ſpring of Himſelf, does come</l>
+               <l>Neither from Seed conceiv'd, nor teeming Womb.</l>
+               <l>But, by a Fruitful Death, without the Ayd</l>
+               <l>Of Parents, his Stiff Joynts, with Age decay'd;</l>
+               <l>(From duty now diſcharg'd) repairs and flies</l>
+               <l>To a freſh life, as often, as he dies.</l>
+               <l>For when his Summers, through a thouſand Rings</l>
+               <l>Have run; with Winters, and as many Springs</l>
+               <l>And Autumns, that to lab'ring Peaſants paid</l>
+               <l>Their wealthy Shades; at length unweildy made,</l>
+               <l>To time (by numerous Ages overcome)</l>
+               <l>He yields. As Pines by Tempeſts ſhaken from</l>
+               <l>The Head of <hi>Caucaſus,</hi> decline, and are</l>
+               <l>Preſs'd into Ruin by the Weight they bare.</l>
+               <l>Some by continued Winds, ſome by the rage</l>
+               <l>Of waſting ſhowres, and ſome by canker'd age.</l>
+            </lg>
+            <lg>
+               <l>His ſight now waxeth dimme, his aged Beak</l>
+               <l>Diſtills faint Iſicles about his Neck.</l>
+               <l>As when the Moon, encompaſs'd in a Bay</l>
+               <l>Of Clouds, with dubious Creſcents ſhrinks away.</l>
+               <l>Thoſe Wings, that through the Clouds were wont to fly;</l>
+               <l>Trail on the ground. Then knowing he muſt die,</l>
+               <l>Framing the Cradle of 's returning Form,</l>
+               <l>He chuſeth drieſt Simples, from the warm</l>
+               <l>Adjoyning Hills, and, of that rich Perfume,</l>
+               <l>Makes both his future Birth-bed and his Tomb:</l>
+               <l>Where plac'd, (his former Strength and Vigor done)</l>
+               <l>He firſt, with Fainter Cries, ſalutes the Sun:</l>
+               <pb n="62" facs="tcp:100530:34"/>
+               <l>Then prays, and with a Suppliant Anthem claims</l>
+               <l>The Bleſſing of his youth-reſtoring flames.</l>
+               <l>Whom, when <hi>Sol</hi> ſees from far, He ſtrait appears</l>
+               <l>To ſtop, and thus his Pious Darling chears;</l>
+               <l>Oh thou, who ſhak'ſt off Age upon thy Pile,</l>
+               <l>And with falſe Sepulchres doſt Fate beguile,</l>
+               <l>Who, out of thine own Ruins, oft, art born,</l>
+               <l>And from thy death, as young (as doth the Morn</l>
+               <l>From Night) returneſt, thy Beginning take</l>
+               <l>Again, and, here, thy wither'd Corps forſake,</l>
+               <l>And, in thy Figure chang'd, come forth more fair.</l>
+               <l>This ſaid, ſhaking his Head, a ſingle Hair</l>
+               <l>From's yellow Locks, He, ſudden, darts, and ſo</l>
+               <l>With Vital Lighrning ſtrikes the Willing, who</l>
+               <l>That, thus from death, He may, with ſpeed, return</l>
+               <l>To life, with Joy, doth voluntary burn.</l>
+            </lg>
+            <lg>
+               <l>Theſe Darts from Heav'n the Heap of rich perfume</l>
+               <l>Soon kindle, and the Aged Bird conſume.</l>
+               <l>The Moon, amaz'd, pulls back her Steeds; the Pole</l>
+               <l>Ceaſeth, the flow Naves of the World to role.</l>
+               <l>The Pile, thus teeming, Nature (careful Dame)</l>
+               <l>Leaſt ſhe ſhould loſe her Bird, the faithful flame</l>
+               <l>Removes, that ſo, th' Immortal Grace of Things</l>
+               <l>She may reſtore; when ſtrait warm Vigor ſprings</l>
+               <l>Through all the Members, and in every vein</l>
+               <l>Reviving Blood, begins to flow again.</l>
+               <l>Then, of it ſelf, the living Duſt aſſumes</l>
+               <l>Motion, and, the Rude Embers cloaths with Plumes.</l>
+               <l>He, that, of late, the Father was, the ſame</l>
+               <l>Is now the Son, and New ſucceeds the Flame</l>
+               <l>The Confines of his double Life, awhile,</l>
+               <l>Divides. Then ſtrait to hallow, near to <hi>Nile,</hi>
+               </l>
+               <l>His Father's Manes, cov'ring o'r with graſs,</l>
+               <l>The Urn, and Parent-neſt, He, ſwift, doth paſs</l>
+               <pb n="63" facs="tcp:100530:34"/>
+               <l>Into another Clime, and bears it to</l>
+               <l>The <hi>Pharian</hi> Land. A vaſt, un-numbred Crue</l>
+               <l>Of winged People (wondring as He flies)</l>
+               <l>Attend, and, in their varied flight, the Skies</l>
+               <l>Like an huge Army, cloud. Yet, among all</l>
+               <l>Thoſe many Myriads, none their General</l>
+               <l>Preſume, in flight, to croſs, or go before,</l>
+               <l>
+                  <hi>But, all the Tract of their bright King adort.</hi>
+               </l>
+               <l>Neither the furious Hawk, nor Bird that bears</l>
+               <l>The Arms of <hi>Jove,</hi> dares move, or think on Wars;</l>
+               <l>
+                  <hi>And, from their Reverence, Common Peace proceeds.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From <hi>Tygris</hi> ſo, the <hi>Parthian</hi> Captain reads</l>
+               <l>His barbarous Troops; in Gems, moſt proudly dreſt,</l>
+               <l>A rich <hi>Tiara</hi> doth his Brows inveſt;</l>
+               <l>Gold Reins his Horſe; his Purple Robe is wrought</l>
+               <l>By' <hi>Aſſyrian</hi> Needles: and, thus ſwell'd with thought</l>
+               <l>Of's high Command, through <hi>Tyrian</hi> Troops he goes.</l>
+            </lg>
+            <lg>
+               <l>There is a City (which all <hi>Egypt</hi> knows)</l>
+               <l>Where, in a ſtately Temple, rais'd upon</l>
+               <l>An hundred <hi>Theban</hi> Columns, they the Sun</l>
+               <l>Adore, with Sacred Rites. Here firſt (they ſay)</l>
+               <l>His Cuſtom is the Parent-Urn to lay.</l>
+               <l>Then, proſtrate to the Image of the god,</l>
+               <l>Unto the Holy Flame commends his load;</l>
+               <l>And, on the Altars offers up, inſtead</l>
+               <l>Of Incenſe, his own Reliques, and his Seed:</l>
+               <l>When ſtrait the Myrrh-annointed Pillars ſhine,</l>
+               <l>And holy Altars breath a Fume divine.</l>
+               <l>The <hi>Indian</hi> Odor, now it ſelf dilates,</l>
+               <l>Through all the <hi>Pharian</hi> Coaſts, and penetrates.</l>
+               <l>To the <hi>Peluſian</hi> Pools, all <hi>Egypt</hi>'s fill'd</l>
+               <l>With wholſom Air, which, as if Heav'n diſtill'd</l>
+               <l>Immortal Nectar through it, all the while,</l>
+               <l>Perſumes the ſeven large Mouths of Swarthy <hi>Nile.</hi>
+               </l>
+            </lg>
+            <pb n="64" facs="tcp:100530:35"/>
+            <lg>
+               <l>Oh happy! thine own Heir! that gives to thee</l>
+               <l>New Life, by which, we all diſſolved be!</l>
+               <l>From thy dead Aſhes doth thine Off ſpring riſe,</l>
+               <l>And thou ſecure, thine Age before thee dies.</l>
+               <l>Whatever was Immortal, thou haſt ſeen,</l>
+               <l>And, Time calls thee to witneſs what hath been.</l>
+               <l>Thou know'ſt what time, from ſpringing Rocks, the Seas</l>
+               <l>Their ſwelling Waters to the Stars did raiſe:</l>
+               <l>What year it was wherein the Worlds great Frame</l>
+               <l>By <hi>Phaeton</hi>'s Error periſh'd in a Flame.</l>
+               <l>No Ruin can thee touch; when Earth ſhall be</l>
+               <l>Worn out, thou from Decay, alone, art free.</l>
+               <l>'Gainſt thee the Fates, nor Law, nor Pow'r can have,</l>
+               <l>Till the whole World ſhall be thy Pile and Grave.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100530:35"/>
+         </div>
+      </body>
+   </text>
+</TEI>
